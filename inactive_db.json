@@ -3850,7 +3850,9 @@
             "aws-cni-test.us-west-2.k8s.ops.tune.com",
             "aws.footprintdns.com",
             "aws.go.sonobi.com",
-            "aws.lijit.com"
+            "aws.lijit.com",
+            "b1-lsw-usw1.zemanta.com",
+            "b1.midasplayer.com"
         ],
         "to_test": [
             "-x3.vindicosuite.com",
@@ -3870,8 +3872,6 @@
             "aws.rubiconproject.com",
             "aws.xcp.go.sonobi.com",
             "azure-res-provider.newrelic.com",
-            "b1-lsw-usw1.zemanta.com",
-            "b1.midasplayer.com",
             "c.staging.ina.media.net",
             "cdn-ap.33across.com",
             "cdn-c.amazon-adsystem.com",
