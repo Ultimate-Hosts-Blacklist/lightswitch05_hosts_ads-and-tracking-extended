@@ -2250,10 +2250,7 @@
             "dsp-preprod.inmobi.com",
             "dsp-prod.demandbase.com",
             "dsp-stg.demandbase.com",
-            "dsp-test.datamind.ru"
-        ],
-        "to_test": [
-            "-x3.vindicosuite.com",
+            "dsp-test.datamind.ru",
             "6957210.fls.doubleclick.net",
             "6959027.fls.doubleclick.net",
             "6959228.fls.doubleclick.net",
@@ -2279,7 +2276,10 @@
             "7293083.fls.doubleclick.net",
             "737194.fls.doubleclick.net",
             "7536050.fls.doubleclick.net",
-            "7745262.fls.doubleclick.net",
+            "7745262.fls.doubleclick.net"
+        ],
+        "to_test": [
+            "-x3.vindicosuite.com",
             "8004234.fls.doubleclick.net",
             "8008311.fls.doubleclick.net",
             "8016052.fls.doubleclick.net",
