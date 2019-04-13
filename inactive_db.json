@@ -1907,10 +1907,7 @@
             "a2.beeg.com",
             "a2.cdn.intentmedia.net",
             "a23.boston.inscname.net",
-            "a4.innovid.com"
-        ],
-        "to_test": [
-            "a5.innovid.com",
+            "a4.innovid.com",
             "a810.smaato.net",
             "aa1test.pixel.marketing",
             "aamulehti-karkimedia.thirdpresence.com",
@@ -1975,7 +1972,6 @@
             "admin-stg.revcontent.com",
             "admin.adserver.mopub.com",
             "admin.corp.mparticle.com",
-            "admin.flurry.com",
             "admin.mpx.mopub.com",
             "admin.pixel.optimalq.net",
             "admin.revcontent.com",
@@ -2273,7 +2269,10 @@
             "api-apac.web.analytics.yahoo.com",
             "api-bg.web.analytics.yahoo.com",
             "api-dev.demandbase.com",
-            "api-development-us-west-2.lisnr.com",
+            "api-development-us-west-2.lisnr.com"
+        ],
+        "to_test": [
+            "a5.innovid.com",
             "api-eu-central-1.petametrics.com",
             "api-eu-west-1.petametrics.com",
             "api-ex.metaps.com",
