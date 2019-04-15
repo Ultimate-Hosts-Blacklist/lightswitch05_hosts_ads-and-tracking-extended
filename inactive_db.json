@@ -1907,9 +1907,7 @@
             "a2.beeg.com",
             "a2.cdn.intentmedia.net",
             "a23.boston.inscname.net",
-            "a4.innovid.com"
-        ],
-        "to_test": [
+            "a4.innovid.com",
             "a5.innovid.com",
             "a810.smaato.net",
             "aa1test.pixel.marketing",
@@ -2240,7 +2238,6 @@
             "analyticstest.appdynamics.com",
             "analyticstest.localytics.com",
             "anctestsystem.corp.returnpath.net",
-            "android-mirror.bugly.qq.com",
             "android-native-ads.mopub.com",
             "anigrupo.engine.adglare.net",
             "annotate.api.driftt.com",
@@ -2262,7 +2259,9 @@
             "ap.api.33across.com",
             "ap.cdn.33across.com",
             "apac-sg.bidswitch.net",
-            "apac.analytics.yahoo.com",
+            "apac.analytics.yahoo.com"
+        ],
+        "to_test": [
             "apac.u.fastly-insights.com",
             "apac.u.staging.fastly-insights.com",
             "apac.u.test.fastly-insights.com",
