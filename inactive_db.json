@@ -2234,9 +2234,7 @@
             "a1.cdn.intentmedia.net",
             "a2.beeg.com",
             "a2.cdn.intentmedia.net",
-            "a23.boston.inscname.net"
-        ],
-        "to_test": [
+            "a23.boston.inscname.net",
             "a4.innovid.com",
             "a5.innovid.com",
             "a810.smaato.net",
@@ -2386,6 +2384,7 @@
             "adserver.monarchads.com",
             "adserver.staging.adswizz.com",
             "adserver.telekom.de",
+            "adserver.webstatsserver.de",
             "adserverrouter02.prod.vungle.com",
             "adserverrouter07.prod.vungle.com",
             "adserverrouter11.prod.vungle.com",
@@ -2452,6 +2451,8 @@
             "aialik.branch.io",
             "aidl-dev1001.data.corp.inmobi.com",
             "ainoa.thirdpresence.com",
+            "airflow.adsrvr.org",
+            "airflow.gen.adsrvr.org",
             "airfrance.aws.tagcommander.com",
             "airpush.thirdpresence.com",
             "aka-cdn.geo.adtechus.com",
@@ -2534,7 +2535,9 @@
             "aligtr080.mmstat.com",
             "aligtr081.mmstat.com",
             "aligtr082.mmstat.com",
-            "aligtr083.mmstat.com",
+            "aligtr083.mmstat.com"
+        ],
+        "to_test": [
             "aligtr084.mmstat.com",
             "allan1qa.midasplayer.com",
             "alldcs-distinct.outbrain.com",
