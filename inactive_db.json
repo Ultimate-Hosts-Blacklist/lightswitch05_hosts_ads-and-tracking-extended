@@ -2236,9 +2236,7 @@
             "a2.beeg.com",
             "a2.cdn.intentmedia.net",
             "a23.boston.inscname.net",
-            "a4.innovid.com"
-        ],
-        "to_test": [
+            "a4.innovid.com",
             "a5.innovid.com",
             "a810.smaato.net",
             "aa1test.pixel.marketing",
@@ -2387,7 +2385,6 @@
             "adserver.monarchads.com",
             "adserver.staging.adswizz.com",
             "adserver.telekom.de",
-            "adserver.webstatsserver.de",
             "adserverrouter02.prod.vungle.com",
             "adserverrouter07.prod.vungle.com",
             "adserverrouter11.prod.vungle.com",
@@ -2617,7 +2614,9 @@
             "ap-northeast-1.stinger-ad.bidr.io",
             "ap.33across.com",
             "ap.api.33across.com",
-            "ap.cdn.33across.com",
+            "ap.cdn.33across.com"
+        ],
+        "to_test": [
             "apac-sg.bidswitch.net",
             "apac.analytics.yahoo.com",
             "apac.u.fastly-insights.com",
