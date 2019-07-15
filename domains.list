@@ -8849,6 +8849,7 @@ airflow-dev.etl.us-east-1.kops.kargo.com
 airflow-prod.etl.us-east-1.kops.kargo.com
 airflow-temp.etl.us-east-1.kops.kargo.com
 airflow.adsrvr.org
+airflow.biztech.segment.com
 airflow.data.drift.com
 airflow.gen.adsrvr.org
 airfrance.aws.tagcommander.com
@@ -10361,6 +10362,7 @@ app-abm.marketo.com
 app-abq.marketo.com
 app-analytics.snapchat.com
 app-benchmarks.adjust.com
+app-canary.segment.com
 app-cs.marketo.com
 app-debug.dev.pardot.com
 app-dev.instartlogic.com
@@ -10381,6 +10383,7 @@ app-lon10.marketo.com
 app-measurement.com
 app-nation.marketo.com
 app-o.marketo.com
+app-production.segment.com
 app-proxy-b.kochava.com
 app-q.marketo.com
 app-qe.marketo.com
@@ -10545,6 +10548,7 @@ app.s50.exct.net
 app.s6.exct.net
 app.s7.exct.net
 app.scorecardresearch.com
+app.segment.com
 app.sellpoint.net
 app.serverbid.com
 app.shopkick.com
@@ -11168,11 +11172,13 @@ atlanticacm.az1.qualtrics.com
 atlanticmedia.122.2o7.net
 atlanticmedia.sc.omtrdc.net
 atlantis.mgmt0.autopilothq.com
+atlantis.segment.com
 atlantis.staging.intentmedia.net
 atlas24854.midasplayer.com
 atlascopco.demdex.net
 atlascopco.sc.omtrdc.net
 atlascopco.tt.omtrdc.net
+atlassian-ihu9wbfxmn.xid.segment.com
 atlassian.fyber.com
 atlassian2.fyber.com
 atlasworld.co1.qualtrics.com
@@ -13213,6 +13219,7 @@ calpis.112.2o7.net
 calq.io
 calregions.urbaninsight.com
 caltonnutrition.leadpages.co
+calvin.segment.com
 calvinklein.sp1.convertro.com
 calvinklein.us.ssl.sc.omtrdc.net
 cam-prod.sendgrid.net
@@ -13265,6 +13272,7 @@ canary-x.flurry.com
 canary.brightedge.com
 canary.flurry.com
 canary.pushspring.com
+canary.segment.com
 canary.us-east-1.stinger-ad.bidr.io
 canary2.flurry.com
 canda.demdex.net
@@ -13612,6 +13620,7 @@ cdn-s.amazon-adsystem.com
 cdn-s.shopcurbside.com
 cdn-s3.nanorep.com
 cdn-sec.tacoda.at.atwola.com
+cdn-settings.segment.com
 cdn-sic.33across.com
 cdn-sie.krxd.net
 cdn-sm.vindicosuite.com
@@ -13849,6 +13858,7 @@ cdn.roiq-vice.ranker.com
 cdn.rollbar.com
 cdn.rubiconproject.com
 cdn.scarabresearch.com
+cdn.segment.com
 cdn.segment.io
 cdn.sele.co
 cdn.selectablemedia.com
@@ -14319,6 +14329,7 @@ ci.liadm.com
 ci.nuggad.net
 ci.oribi.io
 ci.returnpath.net
+ci.segment.com
 ci.thirdpresence.com
 ci.vungle.com
 ci2.whisk.com
@@ -14327,6 +14338,7 @@ ciaopeople.nuggad.net
 ciaoshopde.122.2o7.net
 cicd.videoamp.com
 cid.pardot.com
+cid.segment.com
 ciena.co1.qualtrics.com
 ciena.demdex.net
 cigirex.com.pathful.com
@@ -15266,6 +15278,7 @@ competecholdingag.d3.sc.omtrdc.net
 competitivecyclist.extole.io
 compliance.dev.pardot.com
 components.forter.com
+composer.segment.com
 compuclever.leadpages.co
 computersciencescorp.tt.omtrdc.net
 computerworld.share.ntv.io
@@ -18309,6 +18322,7 @@ email.placelocal.com
 email.realclever.com
 email.returnpath.com
 email.rubiconproject.com
+email.segment.com
 email.shopkick.com
 email.spotxchange.com
 email.survata.com
@@ -19146,6 +19160,7 @@ events.mparticle.com
 events.netseer.com
 events.privy.com
 events.prod.bidr.io
+events.segment.com
 events.stackshare.io
 events.streamamp.mgr.consensu.org
 events.streamrail.net
@@ -19171,6 +19186,7 @@ everestjs.net
 everesttech.net
 everflow.adready.com
 evergreen-rc.rlcdn.com
+evergreen.segment.com
 everlywell.extole.io
 evernote.qualtrics.com
 everydayhealth.com.d1.sc.omtrdc.net
@@ -19616,6 +19632,7 @@ fab.clickfunnels.com
 fabio-maccagnan.clickfunnels.com
 fabletics.com.inscname.net
 fac.co1.qualtrics.com
+facade.segment.com
 facebook-ads.adtz.com
 facebook-com.fanbread.com
 facebook.ap-northeast-1.stinger-ad.bidr.io
@@ -20276,8 +20293,10 @@ fox.az1.qualtrics.com
 fox.tags.newscgp.com
 fox25boston.share.ntv.io
 foxcarolina.placelocal.com
+foxdcg-v5dvg7zihe.xid.segment.com
 foxentertainment.hb.omtrdc.net
 foxfilmedentertainment.122.2o7.net
+foxlatam-kjlft4ujey.xid.segment.com
 foxnet.demdex.net
 foxnews.com.d1.sc.omtrdc.net
 foxnews.demdex.net
@@ -20285,6 +20304,7 @@ foxnews.dev.extremereach.com
 foxnews.extremereach.com
 foxnews.hb.omtrdc.net
 foxnews.tt.omtrdc.net
+foxpass.corp.segment.com
 foxsimpsons.112.2o7.net
 foxsports.hb.omtrdc.net
 foxtel.demdex.net
@@ -20834,6 +20854,7 @@ g.lfstmedia.com
 g.mkey.163.com
 g.netmng.com
 g.scorecardresearch.com
+g.segment.com
 g.skimresources.com
 g.t.dyntrk.com
 g.tracfone.staging.airfind.com
@@ -20932,6 +20953,7 @@ gate.fwmrm.net
 gatehousemedia-d.openx.net
 gatekeeper.outbrain.com
 gatekeeper.qa.corp.mparticle.com
+gateway-api.segment.com
 gateway.adx1.com
 gateway.dynamicyield.com
 gateway.foresee.com
@@ -20999,6 +21021,7 @@ gd.news.163.com
 gd1.mookie1.com
 gdmgroup-d.openx.net
 gdpr-api.k.sharethis.net
+gdpr-controller.my.segment.com
 gdpr-dev.demandbase.com
 gdpr-itx5.smartadserver.mgr.consensu.org
 gdpr-prod.demandbase.com
@@ -21522,6 +21545,7 @@ goldfish.svc.insnw.net
 goldieblox.privy.com
 goldmansachs.122.2o7.net
 goldops777.hop.clickbank.net
+golink.segment.com
 gomezmedia.clickfunnels.com
 gongyi.163.com
 gonick.leadpages.co
@@ -21559,6 +21583,7 @@ googlebidder-dc2.yieldoptimizer.com
 googlesync.permutive.com
 googlesyndication.com
 gooya-d.openx.net
+gopages.segment.com
 goplus.districtm.net
 goprorc.az1.qualtrics.com
 gosp.aniview.com
@@ -21680,6 +21705,7 @@ graph.apne2.st-av.net
 graph.euw1.st-av.net
 graph.m-freeway.com
 graph.sae1.st-av.net
+graph.segment.com
 graph.use1.st-av.net
 graph.usw2.st-av.net
 graph.whisk.com
@@ -21759,6 +21785,7 @@ grove-p.shopcurbside.com
 grove-s.shopcurbside.com
 grove.shopcurbside.com
 grow.rtk.io
+grow.segment.com
 grow.urbanairship.com
 grow.vungle.com
 growth-support.applovin.com
@@ -22034,6 +22061,7 @@ harvard.qualtrics.com
 harvardbusinessrevie.tt.omtrdc.net
 harveynashgroup.eu.qualtrics.com
 has1.midasplayer.com
+hashicorp-fhh9vebjrx.xid.segment.com
 hashtaglabs-d.openx.net
 hasoffers.disqus.com
 hassaleh.iad-03.braze.com
@@ -23975,6 +24003,7 @@ investors.fyber.com
 investors.yext.com
 inviertaparaganar.clickfunnels.com
 invisiblesp.clickfunnels.com
+invisionapp-vaq807hcqi.xid.segment.com
 invitation.cantonfair.org
 invitation.cantonfair.org.cn
 invitrogen.sc.omtrdc.net
@@ -24588,6 +24617,7 @@ js.casalemedia.com
 js.clearbit.com
 js.drift.com
 js.driftt.com
+js.gleam.io
 js.gumgum.com
 js.hs-analytics.net
 js.hs-scripts.com
@@ -25449,6 +25479,7 @@ lead.khingtracking.com
 leadapp.clickfunnels.com
 leadback.advertising.com
 leadback.netseer.com
+leaderboard.segment.com
 leadershipfactor.az1.qualtrics.com
 leaderwings.leadpages.co
 leadkrediet.leadpages.co
@@ -26541,6 +26572,7 @@ mages.clickfunnels.com
 magic-analytics.magmic.com
 magic.engagio.com
 magiclinks.trackonomics.net
+maglev.segment.com
 magnani.co1.qualtrics.com
 magnificentlife.clickfunnels.com
 maia.iad-03.braze.com
@@ -27892,6 +27924,7 @@ mobile-demo.outbrain.com
 mobile-displayads.l.doubleclick.net
 mobile-sdk-api.intercom.io
 mobile-sdks.forter.com
+mobile-service.segment.com
 mobile-static-src.adsafeprotected.com
 mobile-static.adsafeprotected.com
 mobile-symbol-upload.newrelic.com
@@ -30054,6 +30087,7 @@ ofw-client-cdn.fyber.com
 ofw-pivot-prd.production.fyber.com
 og-ams1.adsymptotic.com
 og-iad2.adsymptotic.com
+og-images.segment.com
 og-sc2.adsymptotic.com
 og.alcmpn.com
 og1-iad2.adsymptotic.com
@@ -30217,6 +30251,7 @@ open.163.com
 open.ad.yieldmanager.net
 open.cis-mail.silverpop.com
 open.game.163.com
+open.segment.com
 open.yuedu.163.com
 openadid.adnxs.com
 openadstream-en1.247realmedia.com
@@ -30939,6 +30974,7 @@ partners.marketolive.com
 partners.pardot.com
 partners.piwik.pro
 partners.privy.com
+partners.segment.com
 partners.shopkick.com
 partners.survicate.com
 partners.tune.com
@@ -31796,6 +31832,7 @@ platform-api.allinviews.com
 platform-api.beeviewd.com
 platform-api.newrelic.com
 platform-api.placeyourview.com
+platform-api.segment.com
 platform-api.sharethis.com
 platform-api.supersonic.com
 platform-cdn.sharethis.com
@@ -31844,6 +31881,7 @@ playable-api.avidly.com
 playable.tapjoy.com
 playables-debug.lfstmedia.com
 playback.test.quantummetric.com
+playbook.segment.com
 playbuzz.com
 playbuzz.fanbread.com
 playbuzzmm.ads.tremorhub.com
@@ -31958,6 +31996,7 @@ poc8.celebrus.com
 poc9.celebrus.com
 pocketgems.us-west-2.stinger-ad.bidr.io
 poconorecordcom.112.2o7.net
+podcastfeeds.segment.com
 podcastoneau.adswizz.com
 podna-ab37.marketo.com
 poi.blismedia.com
@@ -32399,6 +32438,7 @@ production.eu-west-2.kops.kargo.com
 production.fyber.com
 production.kargo.com
 production.paperg.com
+production.segment.com
 production.site.mediavine.com
 production.us-east-1.kops.kargo.com
 production.us-west-1.kops.kargo.com
@@ -32419,6 +32459,7 @@ profile.citrix.com
 profile.justuno.com
 profile.localytics.com
 profilebak.justuno.com
+profiles.segment.com
 profileview.localytics.com
 profitable-forex.clickfunnels.com
 profitise.tapfiliate.com
@@ -32791,6 +32832,7 @@ pushpop.keen.io
 pushrev.content-ad.net
 pushspring.com
 putovnica.pushengage.com
+puzzles.segment.com
 pv-p.alcmpn.com
 pv-tm.everesttech.net
 pv.surveywall-api.survata.com
@@ -35305,6 +35347,7 @@ sales.engagio.com
 sales.mediavine.com
 sales.mparticle.com
 sales.outbrain.com
+sales.segment.com
 salescandidate.atom.adjust.com
 salesdemo.containers.piwik.pro
 salesdemo.piwik.pro
@@ -36002,9 +36045,11 @@ segment-data-us-east.zqtk.net
 segment-data.zqtk.net
 segment-e2e.sendgrid.net
 segment-firstio.hull.io
+segment-lgj4aajfn4.xid.segment.com
 segment-production.sendgrid.net
 segment-staging.sendgrid.net
 segment.babynamewizard.com
+segment.com
 segment.hull.io
 segment.io
 segment.kilometer.io
@@ -37525,6 +37570,7 @@ spdy-lb8.adsymptotic.com
 spe.atdmt.com
 speakenglishwithvanessa.leadpages.co
 spec.datamind.ru
+spec.segment.com
 specforce.hop.clickbank.net
 specialaccess.clickfunnels.com
 specializediraservices.clickfunnels.com
@@ -37630,6 +37676,7 @@ spx.smaato.net
 spxc1h-test.sendgrid.net
 spxrtb-us-east.tribalfusion.com
 spyescapeandevasion.clickfunnels.com
+sql.segment.com
 sqribblex.hop.clickbank.net
 sqte-aa-sync.data.nuggad.net
 squid.adx1.com
@@ -38353,6 +38400,7 @@ static.sandbox.nile.works
 static.scarabresearch.com
 static.scroll.com
 static.secure.blismedia.com
+static.segment.com
 static.servedby-buysellads.com
 static.shareaholic.com
 static.shareasale.com
@@ -38487,6 +38535,7 @@ status.permutive.com
 status.quantummetric.com
 status.rejoiner.com
 status.rollbar.com
+status.segment.com
 status.spot.im
 status.survicate.com
 status.swrve.com
@@ -38996,6 +39045,7 @@ synacor-match.dotomi.com
 synacor.112.2o7.net
 synacor.sc.omtrdc.net
 synacor.tt.omtrdc.net
+synapse.segment.com
 sync-aws-ca.bidswitch.net
 sync-aws-fr.bidswitch.net
 sync-aws-jp.bidswitch.net
@@ -39983,6 +40033,7 @@ tiltd.d3.sc.omtrdc.net
 tim.d3.sc.omtrdc.net
 tim.demdex.net
 timbol.iad-03.braze.com
+time-inc-zwpajagg7p.xid.segment.com
 time1.use1.st-av.net
 timeanddate-d.openx.net
 timecom.112.2o7.net
@@ -40132,6 +40183,7 @@ tonies.piwik.pro
 tooclever1.adimare.hop.clickbank.net
 tooclever1.sciaticat.hop.clickbank.net
 toolbar.freshmarketer.com
+tooling.us-west-2.segment.com
 tools-dfw.pardot.com
 tools.contextweb.com
 tools.heyzap.com
@@ -43397,6 +43449,8 @@ whitbreadgroup.tt.omtrdc.net
 white.soju.openx.net
 whitehatsec-ix.brightedge.com
 whitehouseblackmarket.extole.io
+whitelabel-apricot.xid.segment.com
+whitelabel-berry.xid.segment.com
 whitelabel.media.net
 whitelabelns.media.net
 whitney-port.fanbread.com
@@ -44987,6 +45041,7 @@ www.jp.xhamser.com
 www.jpush.io
 www.js-cdn.dynatrace.com
 www.js.ad-score.com
+www.js.gleam.io
 www.js.trendmd.com
 www.jsonp.moatads.com
 www.jsrdn.com
@@ -45033,6 +45088,7 @@ www.lawrencekenshin.leadpages.co
 www.ldap01.adroll.com
 www.ldaps.taboola.com
 www.leadback.netseer.com
+www.leaderboard.segment.com
 www.leadnationmedia.com
 www.leadpages.co
 www.leads.demandbase.com
@@ -45643,6 +45699,7 @@ www.secure0.adswizz.com
 www.securemail.rubiconproject.com
 www.seductionbykamal.leadpages.co
 www.seemakb.leadpages.co
+www.segment.com
 www.sejs.moatads.com
 www.sekindo.com
 www.sele.co
@@ -46341,6 +46398,7 @@ xhprof.pardot.com
 xhprof.perf.pardot.com
 xhr.acrabakasaka.com
 xib.adnxs.com
+xid.segment.com
 xidax.getambassador.com
 xihalife.ipodpsp.hop.clickbank.net
 ximble.getambassador.com
