@@ -539,6 +539,11 @@
         "expiration_date": "20-nov-2019",
         "state": "future"
     },
+    "apester.com": {
+        "epoch": 1652140800,
+        "expiration_date": "10-may-2022",
+        "state": "future"
+    },
     "app-measurement.com": {
         "epoch": 1592524800,
         "expiration_date": "19-jun-2020",
@@ -3300,8 +3305,8 @@
         "state": "future"
     },
     "rtk.io": {
-        "epoch": "1565481600",
-        "expiration_date": "11-aug-2019",
+        "epoch": 1597104000,
+        "expiration_date": "11-aug-2020",
         "state": "future"
     },
     "rubiconproject.com": {
