@@ -309,6 +309,11 @@
         "expiration_date": "04-jan-2022",
         "state": "future"
     },
+    "advertisingbeacon.co.uk": {
+        "epoch": 1559001600,
+        "expiration_date": "28-may-2019",
+        "state": "past"
+    },
     "advertisingbox.com": {
         "epoch": 1604188800,
         "expiration_date": "01-nov-2020",
@@ -1212,6 +1217,11 @@
     "fluxloop.com": {
         "epoch": 1643414400,
         "expiration_date": "29-jan-2022",
+        "state": "future"
+    },
+    "flyertown.ca": {
+        "epoch": 1674950400,
+        "expiration_date": "29-jan-2023",
         "state": "future"
     },
     "footprintdns.com": {
