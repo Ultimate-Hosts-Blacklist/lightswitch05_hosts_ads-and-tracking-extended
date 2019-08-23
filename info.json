@@ -1,32 +1,23 @@
 {
-    "current_stats": {
-        "builds": 35,
-        "counter": {
-            "down": 9718,
-            "invalid": 10,
-            "tested": 53096,
-            "up": 43368
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 1,
-    "end_datetime": "Wed Aug 21 07:42:27 2019",
-    "end_epoch": 1566373347.386536,
+    "end_datetime": "Fri Aug 23 05:14:10 2019",
+    "end_epoch": 1566537250.82327,
     "last_autosave_datetime": "Fri Aug 23 05:00:02 2019",
     "last_autosave_epoch": 1566536402.162567,
     "name": "lightswitch05_hosts_ads-and-tracking-extended",
     "previous_stats": {
-        "builds": 34,
-        "clean.list": 43457,
+        "builds": 36,
+        "clean.list": 43369,
         "counter": {
-            "down": 10093,
+            "down": 10183,
             "invalid": 10,
-            "tested": 53560,
-            "up": 43457
+            "tested": 53562,
+            "up": 43369
         },
-        "domains.list": 53560,
-        "volatile.list": 45739,
-        "whitelisted.list": 43457
+        "domains.list": 53562,
+        "volatile.list": 45643,
+        "whitelisted.list": 43369
     },
     "raw_link": "https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt",
     "start_datetime": "Thu Aug 22 20:17:29 2019",
