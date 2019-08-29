@@ -1482,7 +1482,7 @@
     "firstfetchflash.club": {
         "epoch": 1566950400,
         "expiration_date": "28-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "firstpromoter.com": {
         "epoch": 1619049600,
@@ -2297,6 +2297,11 @@
     "mediavine.com": {
         "epoch": 1580256000,
         "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
+    "metaps.com": {
+        "epoch": 1597104000,
+        "expiration_date": "11-aug-2020",
         "state": "future"
     },
     "micpn.com": {
