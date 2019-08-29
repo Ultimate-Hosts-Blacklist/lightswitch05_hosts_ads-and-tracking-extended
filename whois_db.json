@@ -254,6 +254,11 @@
         "expiration_date": "23-mar-2025",
         "state": "future"
     },
+    "adpxl.co": {
+        "epoch": 1572825600,
+        "expiration_date": "04-nov-2019",
+        "state": "future"
+    },
     "adready.com": {
         "epoch": 1591315200,
         "expiration_date": "05-jun-2020",
@@ -3267,7 +3272,7 @@
     "raygun.io": {
         "epoch": 1567036800,
         "expiration_date": "29-aug-2019",
-        "state": "future"
+        "state": "past"
     },
     "rbl.ms": {
         "epoch": 1582761600,
