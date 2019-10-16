@@ -1,382 +1,63 @@
 {
     "api_call": {
-        "1571203968": {
-            "a-lb-jp.vidora.com": "INACTIVE",
-            "k8s.region-001.p-euc-1.braze.eu": "INACTIVE",
-            "odb-chidc2.outbrain.com": "INACTIVE",
-            "p-lb17.eu.adsymptotic.com": "INACTIVE"
-        },
-        "1571203969": {
-            "dip.demdex.net": "INACTIVE",
-            "jenkins-devops.thunderhead.com": "INACTIVE",
-            "prometheus.prom-example.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE"
-        },
-        "1571204098": {
-            "9130964.fls.doubleclick.net": "INACTIVE",
-            "lb2.adriver.ru": "INACTIVE",
-            "node-p2e-ohv0ak.sitescout.com": "INACTIVE"
-        },
-        "1571204099": {
-            "5529932.fls.doubleclick.net": "INACTIVE",
-            "8617315.fls.doubleclick.net": "INACTIVE",
-            "rad.adriver.ru": "INACTIVE"
-        },
-        "1571204229": {
-            "8513285.fls.doubleclick.net": "INACTIVE",
-            "canada.extremereach.com.extremereach.com": "INACTIVE",
-            "dc2-5.abtasty.com": "INACTIVE",
-            "mail.intelliad.de": "INACTIVE",
-            "u11456274.ct.sendgrid.net": "INACTIVE"
-        },
-        "1571204360": {
-            "npcomm.cdn.adglare.net": "INACTIVE",
-            "origin-akamai-auth.s1.exacttarget.com": "INACTIVE",
-            "pc.alcmpn.com": "INACTIVE",
-            "www.portal2.jsrdn.com": "INACTIVE"
-        },
-        "1571204361": {
-            "images.s50.exacttarget.com": "INACTIVE",
-            "tower.adwyze.com": "INACTIVE"
-        },
-        "1571204491": {
-            "cw112.mta.exacttarget.com": "INACTIVE"
-        },
-        "1571204622": {
-            "bat.bing.combeacon.krxd.netbeacon.scorecardresearch.combeacons.brandads.net": "INACTIVE"
-        },
-        "1571208606": {
-            "au-cn.w.inmobi.com": "INACTIVE",
-            "talpaholding.demdex.net": "INACTIVE",
-            "unrulyx-eu-225.unrulymedia.com": "INACTIVE"
-        },
-        "1571208607": {
-            "5994732.fls.doubleclick.net": "INACTIVE",
-            "audiences-alpha.bluekai.com": "INACTIVE",
-            "sentry.beeketing.com": "INACTIVE",
-            "unrulyx-sg-015.unrulymedia.com": "INACTIVE",
-            "www.liadm.com": "INACTIVE"
-        },
-        "1571208738": {
-            "comments-test.backtrace.io": "INACTIVE",
-            "esri.demdex.net": "INACTIVE",
-            "ns2.247realmedia.com": "INACTIVE",
-            "pricefeeds.metalyzer.com": "INACTIVE"
-        },
-        "1571208739": {
-            "ct0.addthis.com": "INACTIVE",
-            "purch.sync.go.sonobi.com": "INACTIVE",
-            "ssp.thirdpresence.com": "INACTIVE",
-            "www.future-fie-assets.co.uk": "INACTIVE"
-        },
-        "1571208741": {
-            "bos.ads0.nexage.com": "INACTIVE",
-            "dev.oauth.getadmiral.com": "INACTIVE",
-            "subway.demdex.net": "INACTIVE",
-            "www.dev.oauth.getadmiral.com": "INACTIVE"
-        },
-        "1571208742": {
-            "bam-2.nr-data.net": "INACTIVE"
-        },
-        "1571208873": {
-            "bounce.s7.exacttarget.com": "INACTIVE",
-            "event-deletion.staging-1.staging.leanplum.com": "INACTIVE"
-        },
-        "1571208874": {
-            "alb.intentmedia.net": "INACTIVE",
-            "cc2223.dotomi.com": "INACTIVE"
-        },
-        "1571208875": {
-            "ads-adnxs.tradedoubler.com": "INACTIVE"
-        },
-        "1571209004": {
-            "4192053.fls.doubleclick.net": "INACTIVE",
-            "dg32.mta.exacttarget.com": "INACTIVE"
-        },
-        "1571209005": {
-            "admazing.adfarm1.adition.com": "INACTIVE",
-            "prod-hzeu-os-lba-4.datamind.ru": "INACTIVE",
-            "site.qwapi.com": "INACTIVE",
-            "virgin.grapeshot.co.uk": "INACTIVE"
-        },
-        "1571209135": {
-            "cluster1805.2cnt.net": "INACTIVE"
-        },
-        "1571209136": {
-            "03.proxy.us-east-1.world.rw.yieldmo.com": "INACTIVE",
-            "2fdc.arrivalist.com": "INACTIVE",
-            "adserver-useast.tidaltv.com": "INACTIVE",
-            "mmo2de.amobee.com": "INACTIVE",
-            "unrulyx-sg-187.unrulymedia.com": "INACTIVE",
-            "www.azko.frwf.cbarsrv.com": "INACTIVE",
-            "z.deadlinefunnel.com": "INACTIVE"
-        },
-        "1571209137": {
-            "52-5-254-117.tworismo.com": "INACTIVE",
-            "btlr-ecs-ap-southeast-1.sharethrough.com": "INACTIVE"
-        },
-        "1571209266": {
-            "tracking.sv29.monarchads.com": "INACTIVE"
-        },
-        "1571212645": {
-            "e-6064.adzerk.net": "INACTIVE",
-            "pubgenius-tagan.adlightning.com": "INACTIVE"
-        },
-        "1571212646": {
-            "4226606.fls.doubleclick.net": "INACTIVE"
-        },
-        "1571212647": {
-            "api-analytics-bootstrap-dev.metaps.com": "INACTIVE"
-        },
-        "1571212778": {
-            "appshake.adspirit.de": "INACTIVE",
-            "ben.admanmedia.fr": "INACTIVE"
-        },
-        "1571212779": {
-            "653-smc-783.mktoresp.com": "INACTIVE",
-            "graphaimon-mdm.aimon.applicationinsights.io": "INACTIVE",
-            "px.moatads.com": "INACTIVE"
-        },
-        "1571212910": {
-            "supercore.admanmedia.com": "INACTIVE",
-            "zedo.sync.go.sonobi.com": "INACTIVE"
-        },
-        "1571212911": {
-            "stp.rt.cquotient.com": "INACTIVE"
-        },
-        "1571213040": {
-            "iis-4.playbuzz.com": "INACTIVE"
-        },
-        "1571213041": {
-            "fast.subaruofamerica.demdex.net": "INACTIVE",
-            "galeriakaufhof.demdex.net": "INACTIVE",
-            "pi-ue1-lb4.pardot.com": "INACTIVE",
-            "www.arsdev.net": "INACTIVE"
-        },
-        "1571213171": {
-            "replicated.bugsnag.appstore.a2z.com": "INACTIVE"
-        },
-        "1571213172": {
-            "core.test2rudy.qa.bounceexchange.com": "INACTIVE",
-            "stats-production.mcautomation.sendgrid.net": "INACTIVE"
-        },
-        "1571213302": {
-            "api.bugly.qq.com": "INACTIVE"
-        },
-        "1571216592": {
-            "apiservices-a001.krxd.net": "INACTIVE"
-        },
-        "1571216593": {
-            "auth.api.driftt.com": "INACTIVE",
-            "bv-central.byoa.mediamath.com": "INACTIVE"
-        },
-        "1571216594": {
-            "blogtest.placed.com": "INACTIVE",
-            "ubm.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571216596": {
-            "15520.engine.mobileapptracking.com": "INACTIVE"
-        },
-        "1571216597": {
-            "3754861.fls.doubleclick.net": "INACTIVE",
-            "nttx-sin.gravityrd-services.com": "INACTIVE"
-        },
-        "1571216598": {
-            "truthsquadlessfinishers.joystickinteractive.com": "INACTIVE"
-        },
-        "1571216599": {
-            "embree.branch.io": "INACTIVE",
-            "info.fiksu.com": "INACTIVE",
-            "loader-cdn.azureedge.net": "INACTIVE",
-            "sc17864323llms1.cobrowse.oraclecloud.com": "INACTIVE",
-            "u11708502.ct.sendgrid.net": "INACTIVE"
-        },
-        "1571216728": {
-            "gate.vizu.com": "INACTIVE"
-        },
-        "1571216729": {
-            "mp.teads.tv": "INACTIVE",
-            "rtbtest-us-east.nexage.com": "INACTIVE"
-        },
-        "1571216730": {
-            "6381.eu-api.swrve.com": "INACTIVE",
-            "sean.ittest.33across.com": "INACTIVE",
-            "vzw.sp1.convertro.com": "INACTIVE",
-            "wdc5.nexage.com": "INACTIVE"
-        },
-        "1571216860": {
-            "uas.adapf.com": "INACTIVE"
-        },
-        "1571216861": {
-            "ci4.dev.sizmdx.com": "INACTIVE",
-            "nj8g.adj.st": "INACTIVE"
-        },
-        "1571216991": {
-            "a3333.casalemedia.com": "INACTIVE"
-        },
-        "1571216992": {
-            "global-pixel.sojern.com": "INACTIVE",
-            "secure-leadback.stubhub.db.advertising.com": "INACTIVE",
-            "us-jet-01.sociomantic.com": "INACTIVE"
-        },
-        "1571217122": {
-            "service.idsync.analytics.yahoo.com": "INACTIVE"
-        },
-        "1571217123": {
-            "8865123.fls.doubleclick.net": "INACTIVE",
-            "la-chi.outbrain.com": "INACTIVE",
-            "oasn03.247realmedia.com": "INACTIVE",
-            "yampapi-prod.flurry.com": "INACTIVE"
-        },
-        "1571217125": {
-            "5165536.fls.doubleclick.net": "INACTIVE",
-            "www.inside.getambassador.com": "INACTIVE",
-            "www.sesamestats.com": "INACTIVE"
-        },
-        "1571217257": {
-            "sa.ri7.scorecardresearch.com": "INACTIVE"
-        },
-        "1571220985": {
-            "ct6b.addthis.com": "INACTIVE"
-        },
-        "1571220986": {
-            "e4lh.adj.st": "INACTIVE",
-            "ecdn.liveclicker.net": "INACTIVE",
-            "post-diagnostics.bandwidthx.net": "INACTIVE"
-        },
-        "1571220988": {
-            "b.e.redbox.com": "INACTIVE",
-            "sc44940818us1.cobrowse.oraclecloud.com": "INACTIVE"
-        },
-        "1571220989": {
-            "3718.content.swrve.com": "INACTIVE",
-            "pabst.demdex.net": "INACTIVE",
-            "utkonos.worldgravity.com": "INACTIVE"
-        },
-        "1571221119": {
-            "bkp.emea.mxptint.net": "INACTIVE",
-            "openadstream14.247realmedia.com": "INACTIVE",
-            "www.mkto-ab220160.com": "INACTIVE"
-        },
-        "1571221120": {
-            "relay22.ec2.st-av.net": "INACTIVE"
-        },
-        "1571221250": {
-            "expe.reachlocal.com": "INACTIVE",
-            "prometheus.e2.staging-1.staging.leanplum.com": "INACTIVE"
-        },
-        "1571221251": {
-            "integriscu.ca.102.112.2o7.net": "INACTIVE",
-            "reports.admanmedia.com": "INACTIVE"
-        },
-        "1571221381": {
-            "amex.acxiom.com": "INACTIVE",
-            "bbvabancomer.demdex.net": "INACTIVE"
-        },
-        "1571221382": {
-            "fw-de-02.corp.ligatus.com": "INACTIVE",
-            "mktginnovations.sitescoutadserver.com": "INACTIVE",
-            "outcome.supersonicads.com": "INACTIVE"
-        },
-        "1571221383": {
-            "ut.analytics.yahoo.com": "INACTIVE"
-        },
-        "1571221512": {
-            "bp.adkmob.com": "INACTIVE"
-        },
-        "1571221643": {
-            "ad.cpe.dotomi.com": "INACTIVE"
-        },
-        "1571227134": {
-            "deere.com.ssl.sc.omtrdc.net": "INACTIVE",
-            "metadata.dynamicyield.com": "INACTIVE",
-            "payless.madmobile.com": "INACTIVE"
-        },
-        "1571227135": {
-            "nonprod-classic-rest-api.dev.adtech.de": "INACTIVE",
-            "platform4.liverail.com": "INACTIVE"
-        },
-        "1571227265": {
-            "docker-internal.dev.pardot.com": "INACTIVE"
-        },
-        "1571227267": {
-            "www.app.pendo.io": "INACTIVE"
-        },
-        "1571227399": {
-            "e-reportingdb-vip.ame.admarketplace.net": "INACTIVE"
-        },
-        "1571227400": {
-            "httplogserver-lb.global.unified-prod.sharethis.net": "INACTIVE",
-            "rabbit-insights.prod.leanplum.com": "INACTIVE"
-        },
-        "1571227530": {
-            "ec2-54-145-157-141.bidagent.xad.com": "INACTIVE",
-            "fra-lb5.eu.adsymptotic.com": "INACTIVE"
-        },
-        "1571227531": {
-            "5503904.fls.doubleclick.net": "INACTIVE",
-            "cdn-de-1.userreplay.net": "INACTIVE",
-            "wf.zorosrv.com": "INACTIVE",
-            "www.polo.feathr.co": "INACTIVE",
-            "www.sociomantic.net": "INACTIVE"
-        },
-        "1571227661": {
-            "ctcmt01.acxiom.com": "INACTIVE"
-        },
-        "1571227662": {
-            "prague-vast.adtdp.com": "INACTIVE",
-            "sdk.ad.smaato.net": "INACTIVE"
-        },
-        "1571227664": {
-            "api.raygun.io": "INACTIVE",
-            "production-balancers-eu-central-1.smadex.com": "INACTIVE",
-            "u11994562.ct.sendgrid.net": "INACTIVE"
-        },
-        "1571227796": {
-            "ns3.silverpop.com": "INACTIVE"
-        },
-        "1571233016": {
-            "live-click.adtdp.com": "INACTIVE",
-            "report-adyoulike.api.omnitagjs.com": "INACTIVE",
-            "www.sovrn.digitru.st": "INACTIVE"
-        },
-        "1571233145": {
-            "ms157-035.bronto.com": "INACTIVE"
-        },
-        "1571233146": {
-            "s7t.teads.tv": "INACTIVE"
-        },
-        "1571233147": {
-            "brand-networks.svc.tapad.com": "INACTIVE",
-            "logging.newstags.stag.bounceexchange.com": "INACTIVE",
-            "media.sharethrough.com": "INACTIVE",
-            "tve.demdex.net": "INACTIVE"
-        },
-        "1571233277": {
-            "filter0698p1las1.sendgrid.net": "INACTIVE"
-        },
-        "1571233408": {
-            "emwoodwork.7p.com": "INACTIVE",
-            "www.adsfactor.net": "INACTIVE"
-        },
-        "1571233409": {
-            "www.deviceatlasdc.appspot.com": "INACTIVE",
-            "www.recruitment.localiq.com": "INACTIVE"
-        },
-        "1571233539": {
-            "4227696.fls.doubleclick.net": "INACTIVE",
-            "edge.kr.widerplanet.com": "INACTIVE"
-        },
-        "1571233540": {
-            "e-9674-us-east-1.adzerk.net": "INACTIVE"
-        },
-        "1571233670": {
-            "internal-clarity.idsp.inmobi.com": "INACTIVE"
-        }
-    }
-}"INACTIVE"
-        },
-        "1571233670": {
-            "go-servernameapi-stage.k8s.sendgrid.net": "INACTIVE"
+        "1571238123": {
+            "3149648.fls.doubleclick.net": "INACTIVE",
+            "haggler-inneractive056-us-e-ec2.liftoff.io": "INACTIVE"
+        },
+        "1571238124": {
+            "eu.smrtb.com": "INACTIVE",
+            "grafana.prod-1.prod.leanplum.com": "INACTIVE",
+            "oow.sitescoutadserver.com": "INACTIVE",
+            "releasenotes.autopilothq.com": "INACTIVE"
+        },
+        "1571238125": {
+            "veeam.mktoweb.com": "INACTIVE"
+        },
+        "1571238255": {
+            "3057879.fls.doubleclick.net": "INACTIVE",
+            "cdn6b.forter.com": "INACTIVE",
+            "o1.email.placelocal.com": "INACTIVE",
+            "www.pushmejs.com": "INACTIVE",
+            "zemanta-sa.outbrain.org": "INACTIVE"
+        },
+        "1571238256": {
+            "frontend.weborama.com": "INACTIVE",
+            "kbtg.demdex.net": "INACTIVE"
+        },
+        "1571238386": {
+            "studio-mobile.brainient.com": "INACTIVE"
+        },
+        "1571238387": {
+            "adservices.cmp.advertising.com": "INACTIVE",
+            "airtel.demdex.net": "INACTIVE",
+            "usp.backup.sh": "INACTIVE"
+        },
+        "1571238517": {
+            "bcbb-sjc1.rubiconproject.com": "INACTIVE",
+            "test-bulk-services.acxiom.com": "INACTIVE"
+        },
+        "1571238518": {
+            "api-chirpads.playhaven.com": "INACTIVE",
+            "pso.inmobi.com": "INACTIVE",
+            "timeuk.demdex.net": "INACTIVE",
+            "www.pso.inmobi.com": "INACTIVE"
+        },
+        "1571238520": {
+            "cms-xch-chicago.33across.com": "INACTIVE",
+            "kb2.mediamath.com": "INACTIVE"
+        },
+        "1571238521": {
+            "8908249.fls.doubleclick.net": "INACTIVE",
+            "apiservices-a010.krxd.net": "INACTIVE",
+            "u172330.ct.sendgrid.net": "INACTIVE",
+            "www.clientsmedia2.adrime.com": "INACTIVE"
+        },
+        "1571238650": {
+            "in.edge.experimentation.intuit.com": "INACTIVE",
+            "vroku-cbo.shoofle.tv": "INACTIVE"
+        },
+        "1571238781": {
+            "nsg.conviva.com": "INACTIVE"
         }
     }
 }
