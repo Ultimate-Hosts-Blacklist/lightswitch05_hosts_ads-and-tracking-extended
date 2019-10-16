@@ -1,392 +1,48 @@
 {
     "api_call": {
-        "1571172619": {
-            "6475501.fls.doubleclick.net": "INACTIVE"
-        },
-        "1571172620": {
-            "alertmanager.tier2.gae.qa-1.qa.leanplum.com": "INACTIVE",
-            "aligtr042.mmstat.com": "INACTIVE",
-            "audit.gemini.yahoo.com": "INACTIVE",
-            "haggler-mopub800.us-e.ec2.liftoff.io": "INACTIVE"
-        },
-        "1571172750": {
-            "4922209.fls.doubleclick.net": "INACTIVE",
-            "pmrt-tst.acxiom.com": "INACTIVE"
-        },
-        "1571172751": {
-            "mopub-bidder.ads.wish.com": "INACTIVE",
-            "unrulyx-us-167.unrulymedia.com": "INACTIVE",
-            "y.uno.impact-ad.jp": "INACTIVE"
-        },
-        "1571172753": {
-            "8723523.fls.doubleclick.net": "INACTIVE",
-            "publishers-api.allinviews.com": "INACTIVE",
-            "tfs.demdex.net": "INACTIVE",
-            "www.secus.admailtiser.com": "INACTIVE"
-        },
-        "1571172754": {
-            "dswinc.demdex.net": "INACTIVE"
-        },
-        "1571172883": {
-            "4680.api.swrve.com": "INACTIVE",
-            "gp68.mta.exacttarget.com": "INACTIVE"
-        },
-        "1571172885": {
-            "www.tag.clrstm.com": "INACTIVE"
-        },
-        "1571173014": {
-            "t.update.chartbeat.com": "INACTIVE",
-            "tyr.acxiom.com": "INACTIVE"
-        },
-        "1571173015": {
-            "autodiscover.channelintelligence.com": "INACTIVE",
-            "webproxy-advp.iad-apple.com.akadns.net": "INACTIVE"
-        },
-        "1571173016": {
-            "7a8e.adj.st": "INACTIVE",
-            "backpack.adform.com": "INACTIVE",
-            "r19---sn-p5qlsn7l.c.googlesyndication.com": "INACTIVE"
-        },
-        "1571173145": {
-            "speech-qa.tinkoff.ru": "INACTIVE"
-        },
-        "1571173146": {
-            "8402569.fls.doubleclick.net": "INACTIVE",
-            "analytics-ingestion.staging-public.tubi.io": "INACTIVE",
-            "collector-px9atjsd0n.perimeterx.net": "INACTIVE",
-            "dco.nzaza.com": "INACTIVE",
-            "owncloud.mktoweb.com": "INACTIVE",
-            "voxel.read.mongostats.mopub.com": "INACTIVE"
-        },
-        "1571173147": {
-            "cf-aws-adserver-origin-ap-northeast-1.adtechjp.com": "INACTIVE",
-            "glb-mobile.a.adtech.de": "INACTIVE"
-        },
-        "1571173276": {
-            "rtb.adlithium.com": "INACTIVE"
-        },
-        "1571177762": {
-            "api-dfw-b.bandwidthx.net": "INACTIVE"
-        },
-        "1571177891": {
-            "eu-52.sociomantic.com": "INACTIVE",
-            "grtb.asia-east1a.tribalfusion.com": "INACTIVE"
-        },
-        "1571177892": {
-            "8739830.fls.doubleclick.net": "INACTIVE",
-            "bell-ex.acuityplatform.com": "INACTIVE",
-            "centro-47.grapeshot.co.uk": "INACTIVE",
-            "www.crux.cloud.inmobi.com": "INACTIVE",
-            "www.makebestmaintainaflash.icu": "INACTIVE"
-        },
-        "1571178023": {
-            "dmx.us-west-1.districtm.io": "INACTIVE",
-            "popcorn.chartboost.com": "INACTIVE",
-            "prodtest-test-cb-ssp-1528-request-context-scope-round-5-76c7.mobfox.com": "INACTIVE",
-            "xx-ws.adj.st": "INACTIVE"
-        },
-        "1571178155": {
-            "cm.daphnecm.com": "INACTIVE"
-        },
-        "1571178156": {
-            "4735422.fls.doubleclick.net": "INACTIVE",
-            "loadxl.exelator.com": "INACTIVE"
-        },
-        "1571178286": {
-            "sts.webgains.com": "INACTIVE"
-        },
-        "1571178287": {
-            "idsy.ad.gt": "INACTIVE",
-            "s6.optvdo.com": "INACTIVE",
-            "sync-east.intentiq.com": "INACTIVE"
-        },
-        "1571178417": {
-            "adcode203.rontar.com": "INACTIVE"
-        },
-        "1571182122": {
-            "cxi-api-demo.wootric.com": "INACTIVE",
-            "onecommunity-uat.thunderhead.com": "INACTIVE",
-            "www.acuityplatform.com": "INACTIVE"
-        },
-        "1571182252": {
-            "de.inmobi.com": "INACTIVE",
-            "tracking-usa02.omnitagjs.com": "INACTIVE"
-        },
-        "1571182253": {
-            "ewr-511.ewr-rtb1.rfihub.com": "INACTIVE",
-            "karpet.cloud.kargo.com": "INACTIVE",
-            "nn8h.adj.st": "INACTIVE",
-            "thomsonreuters.tt.omtrdc.net": "INACTIVE"
-        },
-        "1571182383": {
-            "d-track.send.microad-cn.com": "INACTIVE"
-        },
-        "1571182384": {
-            "www.c.jsrdn.com": "INACTIVE"
-        },
-        "1571182385": {
-            "servercin.shoofle.tv": "INACTIVE",
-            "sjc-237.sjc-rtb1.rfihub.net": "INACTIVE"
-        },
-        "1571182386": {
-            "adcel.vrvm.com": "INACTIVE",
-            "cdn.uc.atwola.com": "INACTIVE",
-            "query-us-west1.petametrics.com": "INACTIVE",
-            "servercin.allinviews.com": "INACTIVE"
-        },
-        "1571182387": {
-            "axje.adj.st": "INACTIVE"
-        },
-        "1571182516": {
-            "user-sync-mannenmedia.adhese.com": "INACTIVE"
-        },
-        "1571182517": {
-            "secure-xy.imrworldwide.com": "INACTIVE",
-            "users-temp.apester.com": "INACTIVE"
-        },
-        "1571182519": {
-            "6372630.fls.doubleclick.net": "INACTIVE",
-            "tracking-16.iad.liverail.com": "INACTIVE"
-        },
-        "1571182520": {
-            "e-6863.adzerk.net": "INACTIVE",
-            "px27m703hm.perimeterx.net": "INACTIVE"
-        },
-        "1571182649": {
-            "www.adserver.org": "INACTIVE"
-        },
-        "1571182650": {
-            "infrastructure.k8s.tst.returnpath.net": "INACTIVE",
-            "investorbg.adocean.pl": "INACTIVE",
-            "osxserver1.oit.lijit.com": "INACTIVE"
-        },
-        "1571182780": {
-            "fq141.mta.exacttarget.com": "INACTIVE"
-        },
-        "1571186546": {
-            "dt.adsafeprotected.com": "INACTIVE",
-            "samsungseao.demdex.net": "INACTIVE"
-        },
-        "1571186547": {
-            "env.vuble.tv": "INACTIVE"
-        },
-        "1571186676": {
-            "filter0230p1iad2.sendgrid.net": "INACTIVE",
-            "stats-d1328.epom.com": "INACTIVE",
-            "t.getadmiral.com": "INACTIVE"
-        },
-        "1571186807": {
-            "beacon-2.newrelic.com": "INACTIVE",
-            "lpla-ext-tf.rlcdn.com": "INACTIVE",
-            "nibal28.spartoo.com": "INACTIVE"
-        },
-        "1571186808": {
-            "6257110.fls.doubleclick.net": "INACTIVE",
-            "example.airpr.com": "INACTIVE",
-            "tcl.demdex.net": "INACTIVE"
-        },
-        "1571186809": {
-            "dad.ladsp.com": "INACTIVE",
-            "jetstar.demdex.net": "INACTIVE"
-        },
-        "1571186810": {
-            "9100277.fls.doubleclick.net": "INACTIVE",
-            "polo-v1.feathr.co": "INACTIVE",
-            "tags-rc.iad.bluekai.com": "INACTIVE",
-            "tracker.myvisualiq.net": "INACTIVE"
-        },
-        "1571186940": {
-            "db03.wdc.bluekai.com": "INACTIVE"
-        },
-        "1571186941": {
-            "bcpad3.pdx.loc.dyn.crwdcntrl.net": "INACTIVE",
-            "prod-east-rcd-mt.rfksrv.com": "INACTIVE"
-        },
-        "1571186942": {
-            "8220108.fls.doubleclick.net": "INACTIVE",
-            "c7-unrulyx-us-03.unrulyx.unrulymedia.com": "INACTIVE",
-            "funnelwide.us-east-1.stinger-ad.bidr.io": "INACTIVE",
-            "node-p1w-eibeba.sitescout.com": "INACTIVE",
-            "ssp.admanmedia.com": "INACTIVE"
-        },
-        "1571186943": {
-            "clk-sg18.c.appier.net": "INACTIVE",
-            "prodtest-control-cb-inmobiupgradev2-717b.mobfox.com": "INACTIVE",
-            "voda.staging.st-av.net": "INACTIVE"
-        },
-        "1571187073": {
-            "aisstest.acxiom.com": "INACTIVE"
-        },
-        "1571187074": {
-            "pugm22000nf.pubmatic.com": "INACTIVE"
-        },
-        "1571187204": {
-            "api.gk.mparticle.com": "INACTIVE"
-        },
-        "1571190994": {
-            "collector-px9vyuvz4f.perimeterx.net": "INACTIVE"
-        },
-        "1571190995": {
-            "sc96957344us1.cobrowse.oraclecloud.com": "INACTIVE",
-            "tableau-test.fyber.com": "INACTIVE"
-        },
-        "1571191126": {
-            "m1.torrenti.al": "INACTIVE",
-            "sqte-aa-sync.data.nuggad.net": "INACTIVE"
-        },
-        "1571191127": {
-            "4293113.fls.doubleclick.net": "INACTIVE",
-            "8431520.fls.doubleclick.net": "INACTIVE",
-            "assets.prod.leanplum.com": "INACTIVE",
-            "download.bannersnack.com": "INACTIVE",
-            "dsx.adpiano.com": "INACTIVE",
-            "m12n.servebom.com": "INACTIVE"
-        },
-        "1571191257": {
-            "webnibal.spartoo.dk": "INACTIVE"
-        },
-        "1571191258": {
-            "async-px.dynamicyield.com": "INACTIVE",
-            "e-9784.adzerk.net": "INACTIVE"
-        },
-        "1571191259": {
-            "api.joe.env.sandbox53.localytics.com": "INACTIVE",
-            "secure-leadback.buycom.db.advertising.com": "INACTIVE"
-        },
-        "1571191388": {
-            "ba2.mta.exacttarget.com": "INACTIVE"
-        },
-        "1571191389": {
-            "preview1.thunderhead.com": "INACTIVE",
-            "sophia.trustx.org": "INACTIVE",
-            "t.t4ft.de": "INACTIVE"
-        },
-        "1571191390": {
-            "eu1-00000035.userreplay.net": "INACTIVE",
-            "s5-fast.addthis.com": "INACTIVE",
-            "southam.ati-host.net": "INACTIVE",
-            "staging4.dynamicyield.com": "INACTIVE"
-        },
-        "1571191522": {
-            "6361240.fls.doubleclick.net": "INACTIVE",
-            "cn.macromill.com": "INACTIVE",
-            "ivid-f2-us-ca.cpagen.win": "INACTIVE",
-            "pxln.jivox.com": "INACTIVE",
-            "testssl.aws.xiti.com": "INACTIVE"
-        },
-        "1571195290": {
-            "4335084.fls.doubleclick.net": "INACTIVE",
-            "r.254a.com": "INACTIVE"
-        },
-        "1571195291": {
-            "ats-prod.sizmdx.com": "INACTIVE",
-            "chat.boldchat.com": "INACTIVE",
-            "u5287832.ct.sendgrid.net": "INACTIVE"
-        },
-        "1571195421": {
-            "sconsentit9.trafficmanager.net": "INACTIVE"
-        },
-        "1571195422": {
-            "alterra.demdex.net": "INACTIVE",
-            "reports.boldchat.com": "INACTIVE",
-            "sc60032181us2.cobrowse.oraclecloud.com": "INACTIVE"
-        },
-        "1571195423": {
-            "douglasgmbh.demdex.net": "INACTIVE"
-        },
-        "1571195552": {
-            "ingest.meta.lightstep.com": "INACTIVE"
-        },
-        "1571195553": {
-            "74ul.adj.st": "INACTIVE",
-            "internal-ue1-lb4.pardot.com": "INACTIVE",
-            "secure.advertising.com": "INACTIVE",
-            "ssl32bts.backup.sh": "INACTIVE",
-            "www.servedby-buysellads.com": "INACTIVE"
-        },
-        "1571195554": {
-            "clients.advertising.com": "INACTIVE",
-            "fast.airbus.demdex.net": "INACTIVE"
-        },
-        "1571195684": {
-            "mail.mgt.coremetrics.com": "INACTIVE",
-            "tca-215.tca-rtb1.rfihub.net": "INACTIVE"
-        },
-        "1571195685": {
-            "c24.adrise.tv": "INACTIVE"
-        },
-        "1571195815": {
-            "hackmaster.7p.com": "INACTIVE",
-            "u12009701.ct.sendgrid.net": "INACTIVE"
-        },
-        "1571195816": {
-            "dev.operation.igaworks.com": "INACTIVE",
-            "www.shopcurbside.com": "INACTIVE"
-        },
-        "1571195817": {
-            "1294949382.us.mixmarket.biz": "INACTIVE"
-        },
-        "1571195948": {
-            "filter0584p1iad2.sendgrid.net": "INACTIVE"
-        },
-        "1571199483": {
-            "ws.us-ec.adtechus.com": "INACTIVE"
-        },
-        "1571199484": {
-            "tsite.jp.102.112.207.net": "INACTIVE"
-        },
-        "1571199613": {
-            "adimg.cbsi.com": "INACTIVE"
-        },
-        "1571199614": {
-            "rub.pxl.ace.advertising.com": "INACTIVE"
-        },
-        "1571199744": {
-            "vcsa.vmware.com": "INACTIVE"
-        },
-        "1571199745": {
-            "8818554.fls.doubleclick.net": "INACTIVE",
-            "boost-dev-api.districtm.net": "INACTIVE"
-        },
-        "1571199746": {
-            "ssl.admanmedia.fr": "INACTIVE"
-        },
-        "1571199875": {
-            "ismtpd0061p1mdw1.sendgrid.net": "INACTIVE"
-        },
-        "1571199876": {
-            "4808185.fls.doubleclick.net": "INACTIVE",
-            "beacon.tru.am": "INACTIVE",
-            "sonic.rubiconproject.com": "INACTIVE"
-        },
-        "1571199906": {
-            "adservice.google.com.cy": "INACTIVE",
-            "b98s.adj.st": "INACTIVE",
-            "fra-184.fra-rtb1.rfihub.net": "INACTIVE"
-        },
-        "1571199907": {
-            "tmobile.demdex.net": "INACTIVE"
-        },
-        "1571199908": {
-            "h38c.adj.st": "INACTIVE",
-            "tomiz.silveregg.net": "INACTIVE"
-        },
-        "1571199909": {
-            "mads.at.atwola.com": "INACTIVE",
-            "travelapis.hlserve.com": "INACTIVE"
-        },
-        "1571200039": {
-            "kz.kaztel1.adriver.ru": "INACTIVE"
-        },
-        "1571200170": {
-            "dev.brightedge.com": "INACTIVE"
-        }
-    }
-}E"
-        }
-    }
-}": {
-            "ruptly-d3.openxenterprise.com": "INACTIVE"
+        "1571203968": {
+            "a-lb-jp.vidora.com": "INACTIVE",
+            "k8s.region-001.p-euc-1.braze.eu": "INACTIVE",
+            "odb-chidc2.outbrain.com": "INACTIVE",
+            "p-lb17.eu.adsymptotic.com": "INACTIVE"
+        },
+        "1571203969": {
+            "dip.demdex.net": "INACTIVE",
+            "jenkins-devops.thunderhead.com": "INACTIVE",
+            "prometheus.prom-example.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE"
+        },
+        "1571204098": {
+            "9130964.fls.doubleclick.net": "INACTIVE",
+            "lb2.adriver.ru": "INACTIVE",
+            "node-p2e-ohv0ak.sitescout.com": "INACTIVE"
+        },
+        "1571204099": {
+            "5529932.fls.doubleclick.net": "INACTIVE",
+            "8617315.fls.doubleclick.net": "INACTIVE",
+            "rad.adriver.ru": "INACTIVE"
+        },
+        "1571204229": {
+            "8513285.fls.doubleclick.net": "INACTIVE",
+            "canada.extremereach.com.extremereach.com": "INACTIVE",
+            "dc2-5.abtasty.com": "INACTIVE",
+            "mail.intelliad.de": "INACTIVE",
+            "u11456274.ct.sendgrid.net": "INACTIVE"
+        },
+        "1571204360": {
+            "npcomm.cdn.adglare.net": "INACTIVE",
+            "origin-akamai-auth.s1.exacttarget.com": "INACTIVE",
+            "pc.alcmpn.com": "INACTIVE",
+            "www.portal2.jsrdn.com": "INACTIVE"
+        },
+        "1571204361": {
+            "images.s50.exacttarget.com": "INACTIVE",
+            "tower.adwyze.com": "INACTIVE"
+        },
+        "1571204491": {
+            "cw112.mta.exacttarget.com": "INACTIVE"
+        },
+        "1571204622": {
+            "bat.bing.combeacon.krxd.netbeacon.scorecardresearch.combeacons.brandads.net": "INACTIVE"
         }
     }
 }
