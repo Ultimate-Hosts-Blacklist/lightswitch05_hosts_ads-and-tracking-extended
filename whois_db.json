@@ -252,7 +252,7 @@
     "adagionet.com": {
         "epoch": 1571443200,
         "expiration_date": "19-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "adaos-ads.net": {
         "epoch": 1599523200,
@@ -1037,6 +1037,11 @@
     "agraph.net": {
         "epoch": 1584921600,
         "expiration_date": "23-mar-2020",
+        "state": "future"
+    },
+    "aidata.me": {
+        "epoch": 1644105600,
+        "expiration_date": "06-feb-2022",
         "state": "future"
     },
     "airfind.com": {
