@@ -179,9 +179,19 @@
         "expiration_date": "25-feb-2021",
         "state": "future"
     },
+    "adssyscom.com": {
+        "epoch": 1566864000,
+        "expiration_date": "27-aug-2019",
+        "state": "past"
+    },
     "adsymptotic.com": {
         "epoch": 1694217600,
         "expiration_date": "09-sep-2023",
+        "state": "future"
+    },
+    "adtarget.me": {
+        "epoch": 1592524800,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "adtechus.com": {
@@ -604,6 +614,11 @@
         "expiration_date": "23-dec-2020",
         "state": "future"
     },
+    "e0mn.com": {
+        "epoch": 1601942400,
+        "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
     "ebuzzing.com": {
         "epoch": 1590105600,
         "expiration_date": "22-may-2020",
@@ -924,6 +939,11 @@
         "expiration_date": "01-jun-2020",
         "state": "future"
     },
+    "mdotlabs.com": {
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
     "media.net": {
         "epoch": 1584316800,
         "expiration_date": "16-mar-2020",
@@ -1047,6 +1067,11 @@
     "ml-attr.com": {
         "epoch": 1593993600,
         "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
+    "mobileapptracking.com": {
+        "epoch": 1817424000,
+        "expiration_date": "05-aug-2027",
         "state": "future"
     },
     "monetate.net": {
@@ -1324,6 +1349,11 @@
         "expiration_date": "28-oct-2020",
         "state": "future"
     },
+    "scanscout.com": {
+        "epoch": 1590624000,
+        "expiration_date": "28-may-2020",
+        "state": "future"
+    },
     "scorecardresearch.com": {
         "epoch": 1604188800,
         "expiration_date": "01-nov-2020",
@@ -1367,6 +1397,16 @@
     "silverpush.co": {
         "epoch": 1580947200,
         "expiration_date": "06-feb-2020",
+        "state": "future"
+    },
+    "simplaex.com": {
+        "epoch": 1598313600,
+        "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "sitescout.com": {
+        "epoch": 1589241600,
+        "expiration_date": "12-may-2020",
         "state": "future"
     },
     "smadex.com": {
@@ -1564,6 +1604,11 @@
         "expiration_date": "19-nov-2020",
         "state": "future"
     },
+    "veeplay.com": {
+        "epoch": 1593129600,
+        "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
     "videostat.com": {
         "epoch": 1593561600,
         "expiration_date": "01-jul-2020",
@@ -1597,6 +1642,11 @@
     "vsassets.com": {
         "epoch": 1622160000,
         "expiration_date": "28-may-2021",
+        "state": "future"
+    },
+    "webgains.com": {
+        "epoch": 1591574400,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "weborama.fr": {
@@ -1652,6 +1702,11 @@
     "yoose.com": {
         "epoch": 1598745600,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "zentrick.io": {
+        "epoch": 1583107200,
+        "expiration_date": "02-mar-2020",
         "state": "future"
     },
     "zkcdn.net": {
