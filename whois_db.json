@@ -632,7 +632,7 @@
     "adpxl.co": {
         "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "adrcdn.com": {
         "epoch": 1584662400,
@@ -2209,6 +2209,11 @@
         "expiration_date": "29-nov-2019",
         "state": "future"
     },
+    "dianomi.com": {
+        "epoch": 1607558400,
+        "expiration_date": "10-dec-2020",
+        "state": "future"
+    },
     "digitalremedy.com": {
         "epoch": 1580601600,
         "expiration_date": "02-feb-2020",
@@ -3139,6 +3144,11 @@
         "expiration_date": "01-aug-2020",
         "state": "future"
     },
+    "hybrid.ai": {
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
+        "state": "future"
+    },
     "iasds01.com": {
         "epoch": 1704758400,
         "expiration_date": "09-jan-2024",
@@ -3404,9 +3414,19 @@
         "expiration_date": "19-aug-2020",
         "state": "future"
     },
+    "jsrdn.com": {
+        "epoch": 1586304000,
+        "expiration_date": "08-apr-2020",
+        "state": "future"
+    },
     "jt.ms": {
         "epoch": 1606694400,
         "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "juicemobile.com": {
+        "epoch": 1585180800,
+        "expiration_date": "26-mar-2020",
         "state": "future"
     },
     "justpremium.com": {
@@ -6632,6 +6652,11 @@
     "vilynx.com": {
         "epoch": 1592092800,
         "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
+    "vindicosuite.com": {
+        "epoch": 1585699200,
+        "expiration_date": "01-apr-2020",
         "state": "future"
     },
     "visibleconsumerinsight.com": {
