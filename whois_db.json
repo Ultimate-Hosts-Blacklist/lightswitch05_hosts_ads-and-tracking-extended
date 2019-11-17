@@ -9,6 +9,11 @@
         "expiration_date": "01-aug-2027",
         "state": "future"
     },
+    "ad4mat.com": {
+        "epoch": 1583193600.0,
+        "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
     "adblade.com": {
         "epoch": 1635552000.0,
         "expiration_date": "30-oct-2021",
@@ -24,14 +29,29 @@
         "expiration_date": "23-jul-2020",
         "state": "future"
     },
+    "adspirit.net": {
+        "epoch": 1599609600.0,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
     "adtechjp.com": {
         "epoch": 1616284800.0,
         "expiration_date": "21-mar-2021",
         "state": "future"
     },
+    "aniview.com": {
+        "epoch": 1732060800.0,
+        "expiration_date": "20-nov-2024",
+        "state": "future"
+    },
     "beeviewd.com": {
         "epoch": 1612828800.0,
         "expiration_date": "09-feb-2021",
+        "state": "future"
+    },
+    "buzzdeck.com": {
+        "epoch": 1579651200.0,
+        "expiration_date": "22-jan-2020",
         "state": "future"
     },
     "bytegain.com": {
@@ -59,14 +79,39 @@
         "expiration_date": "12-oct-2020",
         "state": "future"
     },
+    "inmobi.cn": {
+        "epoch": 1651881600.0,
+        "expiration_date": "07-may-2022",
+        "state": "future"
+    },
     "inner-active.mobi": {
         "epoch": 1602374400.0,
         "expiration_date": "11-oct-2020",
         "state": "future"
     },
+    "intentiq.com": {
+        "epoch": 1585094400.0,
+        "expiration_date": "25-mar-2020",
+        "state": "future"
+    },
+    "kdata.fr": {
+        "epoch": 1589328000.0,
+        "expiration_date": "13-may-2020",
+        "state": "future"
+    },
     "kwanzoo.com": {
         "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
+    "lndata.com": {
+        "epoch": 1654646400.0,
+        "expiration_date": "08-jun-2022",
+        "state": "future"
+    },
+    "mediapass.com": {
+        "epoch": 1582416000.0,
+        "expiration_date": "23-feb-2020",
         "state": "future"
     },
     "mmnetwork.mobi": {
@@ -94,9 +139,24 @@
         "expiration_date": "22-jan-2020",
         "state": "future"
     },
+    "omtrdc.net": {
+        "epoch": 1595376000.0,
+        "expiration_date": "22-jul-2020",
+        "state": "future"
+    },
     "oochelco.com": {
         "epoch": 1586822400.0,
         "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
+    "paradym.com": {
+        "epoch": 1707782400.0,
+        "expiration_date": "13-feb-2024",
+        "state": "future"
+    },
+    "privy.com": {
+        "epoch": 1674259200.0,
+        "expiration_date": "21-jan-2023",
         "state": "future"
     },
     "rvty.net": {
@@ -127,6 +187,11 @@
     "unrulymedia.com": {
         "epoch": 1592092800.0,
         "expiration_date": "14-jun-2020",
+        "state": "future"
+    },
+    "yoose.com": {
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     }
 }
