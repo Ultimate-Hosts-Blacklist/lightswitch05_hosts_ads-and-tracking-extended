@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 339,
+        "builds": 340,
         "counter": {
-            "down": 6476,
+            "down": 6643,
             "invalid": 2,
-            "tested": 29977,
-            "up": 23499
+            "tested": 30727,
+            "up": 24082
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 1,
     "end_datetime": "Sat Nov  9 09:31:32 2019",
     "end_epoch": 1573291892.016617,
-    "last_autosave_datetime": "Fri Nov 22 17:40:07 2019",
-    "last_autosave_epoch": 1574444407.898126,
+    "last_autosave_datetime": "Fri Nov 22 18:27:46 2019",
+    "last_autosave_epoch": 1574447266.270539,
     "name": "lightswitch05_hosts_ads-and-tracking-extended",
     "previous_stats": {
         "builds": 88,
