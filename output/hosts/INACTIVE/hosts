@@ -219,6 +219,7 @@
 0.0.0.0 api.mcauto-images-e2e.sendgrid.net
 0.0.0.0 api.mc-contact-upload-nat-dev.sendgrid.net
 0.0.0.0 api.mdotlabs.com
+0.0.0.0 api.qa1.corp.mparticle.com
 0.0.0.0 api.reports.advertising.com
 0.0.0.0 api.selfserve.rubiconproject.com
 0.0.0.0 apiservices-a010.krxd.net
@@ -362,6 +363,7 @@
 0.0.0.0 bestbuyholiday.joystickinteractive.com
 0.0.0.0 beta3.loopme.me
 0.0.0.0 beta-shop.shopcurbside.com
+0.0.0.0 betathome-sb-ams.adtech.de
 0.0.0.0 bh1.doubleclick.net
 0.0.0.0 bi.allinviews.com
 0.0.0.0 bidbgp-lga.contextweb.com
@@ -432,6 +434,7 @@
 0.0.0.0 c7-unrulyx-sg-01.unrulyx.unrulymedia.com
 0.0.0.0 c7-unrulyx-sg-04.unrulyx.unrulymedia.com
 0.0.0.0 c7-unrulyx-sg-07.unrulyx.unrulymedia.com
+0.0.0.0 c7-unrulyx-us-01.unrulyx.unrulymedia.com
 0.0.0.0 c7-unrulyx-us-03.unrulyx.unrulymedia.com
 0.0.0.0 c7-unrulyx-us-07.unrulyx.unrulymedia.com
 0.0.0.0 c7-unrulyx-us-08.unrulyx.unrulymedia.com
@@ -587,15 +590,19 @@
 0.0.0.0 data.mobile.pendo.io
 0.0.0.0 dataproxy.heapanalytics.com
 0.0.0.0 datascience-prd.svc.tapad.com
+0.0.0.0 da-v-eu.amazon-adsystem.com
+0.0.0.0 da-v-sin.amazon-adsystem.com
 0.0.0.0 dbh.wtp101.com
 0.0.0.0 dc01.automatad.com
 0.0.0.0 dc02vpn.thunderhead.com
+0.0.0.0 dc-1623b.optimahub.com
 0.0.0.0 dc2-10.abtasty.com
 0.0.0.0 dc2-6.abtasty.com
 0.0.0.0 dc2-7.abtasty.com
 0.0.0.0 dc2.s79.meetrics.net
 0.0.0.0 dc-3001b.optimahub.com
 0.0.0.0 dc3.corp.appdynamics.com
+0.0.0.0 dc-4073b.optimahub.com
 0.0.0.0 dc-6581a.optimahub.com
 0.0.0.0 dca.event.bidstalk.com
 0.0.0.0 dcblade01.bnmla.com
@@ -652,6 +659,7 @@
 0.0.0.0 display.pe.apester.com
 0.0.0.0 dl.adadyn.com
 0.0.0.0 dlx.addthis.com
+0.0.0.0 dmap.eyereturn.com
 0.0.0.0 dmp-eu.adform.net
 0.0.0.0 dmp.loopme.me
 0.0.0.0 dn.ravenjs.com
@@ -853,6 +861,7 @@
 0.0.0.0 g.mbm.cn.miaozhen.com
 0.0.0.0 gmstorage.elfsight.com
 0.0.0.0 go7.aniview.com
+0.0.0.0 gobuyersupport.rubiconproject.com
 0.0.0.0 gocentos7.aniview.com
 0.0.0.0 go.chartboost.com
 0.0.0.0 godaddy.sp1.convertro.com
@@ -894,6 +903,7 @@
 0.0.0.0 haggler-doubleclick354-eu-c-ec2.liftoff.io
 0.0.0.0 haggler-inmobi001-us-e-ec2.liftoff.io
 0.0.0.0 haggler-inmobi003-us-e-ec2.liftoff.io
+0.0.0.0 haggler-millennial115-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub774.us-e.ec2.liftoff.io
 0.0.0.0 haggler-mopub800.us-e.ec2.liftoff.io
 0.0.0.0 haggler-mopub812-us-e-ec2.liftoff.io
@@ -958,6 +968,7 @@
 0.0.0.0 iei.rlcdn.com
 0.0.0.0 i.essads.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
+0.0.0.0 ifc3.inmobi.com
 0.0.0.0 ifs.ad.gt
 0.0.0.0 i.glbp.w55c.net
 0.0.0.0 ig.services.webspectator.com
@@ -986,6 +997,7 @@
 0.0.0.0 initiative.twitter.adtz.com
 0.0.0.0 inline-api-server-elb.lb.dev1.sharethis.net
 0.0.0.0 inline-widget-meteor-lb.global.prod1.sharethis.net
+0.0.0.0 inmobi.web14-east.manage.com
 0.0.0.0 inplay-rcv04.scanscout.com
 0.0.0.0 ins11.hotjar.com
 0.0.0.0 ins14.hotjar.com
@@ -1102,6 +1114,7 @@
 0.0.0.0 local.bridgewell.com
 0.0.0.0 localhost.solocpm.com
 0.0.0.0 local.unityads.unity3d.com
+0.0.0.0 log2.reflow.tv
 0.0.0.0 log.chartbeat.com
 0.0.0.0 logdb01.ec2.st-av.net
 0.0.0.0 logdb02.ec2.st-av.net
@@ -1187,6 +1200,7 @@
 0.0.0.0 metrics.dmx.eu-west-1.districtm.io
 0.0.0.0 metrics.kampyle.com
 0.0.0.0 metrics.sprymetrics.com
+0.0.0.0 metropolis.adwyze.com
 0.0.0.0 meundies.friendbuy.com
 0.0.0.0 mi2.midasplayer.com
 0.0.0.0 mi3.midasplayer.com
@@ -1327,6 +1341,7 @@
 0.0.0.0 opscenter.dcs.mediamath.com
 0.0.0.0 ops-prod-a.us-east-1.k8s.tune.com
 0.0.0.0 opt.d3sv.net
+0.0.0.0 optimization.channelintelligence.com
 0.0.0.0 optimize.ensighten.com
 0.0.0.0 optimizely.com.edgekey.net
 0.0.0.0 orami.worldgravity.com
@@ -1476,6 +1491,7 @@
 0.0.0.0 proxy.dynamicyield.com
 0.0.0.0 proxy-ssl.installfarm.com
 0.0.0.0 proxy-ssl.placeyourview.com
+0.0.0.0 ps2002.wdc.bluekai.com
 0.0.0.0 ps2003.wdc.bluekai.com
 0.0.0.0 ps2007.wdc.bluekai.com
 0.0.0.0 ps2015.wdc.bluekai.com
@@ -1590,6 +1606,7 @@
 0.0.0.0 rrd.rlcdn.com
 0.0.0.0 r.rockabox.co
 0.0.0.0 rs.nexus.ensighten.com
+0.0.0.0 rtax.ny.us.criteo.com
 0.0.0.0 rtb1-hk.admaxim.com
 0.0.0.0 rtb-apac.adsymptotic.com
 0.0.0.0 rtb-eu.tapad.com
@@ -1612,6 +1629,7 @@
 0.0.0.0 rudys-test.beta.stag.bounceexchange.com
 0.0.0.0 rudytest4-api.beta.stag.bounceexchange.com
 0.0.0.0 ruem-collector.pingdom.net
+0.0.0.0 rum-static-2.pingdom.net
 0.0.0.0 rundeck.bi.fyber.com
 0.0.0.0 ruogwx-test.sendgrid.net
 0.0.0.0 rusztikhomehu-ams.gravityrd-services.com
@@ -1630,6 +1648,7 @@
 0.0.0.0 s-36.algovid.com
 0.0.0.0 s-38.optvdo.com
 0.0.0.0 s3-fast.addthis.com
+0.0.0.0 s3ns3.advertising.com
 0.0.0.0 s-43.algovid.com
 0.0.0.0 s-48.algovid.com
 0.0.0.0 s4.shoofle.tv
@@ -1686,6 +1705,7 @@
 0.0.0.0 server6.shoofle.tv
 0.0.0.0 server8.installfarm.com
 0.0.0.0 server9.installfarm.com
+0.0.0.0 serverdashboard-testing.k8s.sendgrid.net
 0.0.0.0 servernbxdo.shoofle.tv
 0.0.0.0 server-ssl.bestcontentonline.com
 0.0.0.0 servicedesk.corp.ligatus.com
@@ -1899,9 +1919,11 @@
 0.0.0.0 tones-web-6257.lisnr.com
 0.0.0.0 tonton.qa-iad.amobee.com
 0.0.0.0 tor.rtb.adsrvr.org
+0.0.0.0 tp.doublemax.net
 0.0.0.0 tprod.visto1.net
 0.0.0.0 track12.solocpm.com
 0.0.0.0 track13.solocpm.com
+0.0.0.0 track1.httptrack.com
 0.0.0.0 track2.linksynergy.com
 0.0.0.0 track6.aniview.com
 0.0.0.0 tracker-cnv.bidder7.mookie1.com
@@ -1973,6 +1995,7 @@
 0.0.0.0 unrulyx-sg-010.unrulymedia.com
 0.0.0.0 unrulyx-sg-026.unrulymedia.com
 0.0.0.0 unrulyx-sg-027.unrulymedia.com
+0.0.0.0 unrulyx-sg-031.unrulymedia.com
 0.0.0.0 unrulyx-sg-041.unrulymedia.com
 0.0.0.0 unrulyx-sg-160.unrulymedia.com
 0.0.0.0 unrulyx-sg-169.unrulymedia.com
@@ -1983,6 +2006,7 @@
 0.0.0.0 unrulyx-sg-194.unrulymedia.com
 0.0.0.0 unrulyx-sg-200.unrulymedia.com
 0.0.0.0 unrulyx-sg-206.unrulymedia.com
+0.0.0.0 unrulyx-sg-207.unrulymedia.com
 0.0.0.0 unrulyx-us-002.unrulymedia.com
 0.0.0.0 unrulyx-us-007.unrulymedia.com
 0.0.0.0 unrulyx-us-010.unrulymedia.com
@@ -2110,6 +2134,7 @@
 0.0.0.0 webserve-10c82cc.use.dynamicyield.com
 0.0.0.0 webserve-564b5fde.euw1.dynamicyield.com
 0.0.0.0 webserve-6bfee8b.euw1.dynamicyield.com
+0.0.0.0 webserve-75bc668d.use.dynamicyield.com
 0.0.0.0 webserve-8dfa25c8.use.dynamicyield.com
 0.0.0.0 webserve-da888e9.euw1.dynamicyield.com
 0.0.0.0 webservice.qa.exacttarget.com
@@ -2151,6 +2176,7 @@
 0.0.0.0 www.254a.com
 0.0.0.0 www.2cnt.net
 0.0.0.0 www.2mdn.net
+0.0.0.0 www.3gl.net
 0.0.0.0 www.3lift.com
 0.0.0.0 www.6sc.co
 0.0.0.0 www.a8723.com
@@ -2228,6 +2254,7 @@
 0.0.0.0 www.boss.sendgrid.net
 0.0.0.0 www.bp.adkmob.com
 0.0.0.0 www.broadcast.pm
+0.0.0.0 www.brp.mxptint.net
 0.0.0.0 www.brsrvr.com
 0.0.0.0 www.build1500.scm.ev1.inmobi.com
 0.0.0.0 www.build-dev.corp.inmobi.com
@@ -2459,6 +2486,7 @@
 0.0.0.0 www.mkto-sjp0016.com
 0.0.0.0 www.mkto-sn030095.com
 0.0.0.0 www.mkto-sn030096.com
+0.0.0.0 www.mkto-sn030097.com
 0.0.0.0 www.mkto-sn030098.com
 0.0.0.0 www.mkto-sn030185.com
 0.0.0.0 www.mktoweb.com
