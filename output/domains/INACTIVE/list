@@ -160,6 +160,7 @@ alertmanager.avalanche2.ei-dev-a.us-west-2.k8s.sendgrid.net
 alertmanager.avalanche.ei-dev-a.us-east-1.k8s.sendgrid.net
 alertmanager.rwe.ei-dev-a.us-east-1.k8s.sendgrid.net
 alertmanager.testing-mdw1.k8s.sendgrid.net
+aligtr014.mmstat.com
 aligtr024.mmstat.com
 aligtr080.mmstat.com
 aligtr083.mmstat.com
@@ -253,6 +254,7 @@ app.yjp.kissmetrics.com
 ap-sonar.sociomantic.com
 ap-south-1.gamma.routing.panorama.analytics.console.aws.a2z.com
 ap-south-1.prod.analytics.console.aws.a2z.com
+ap-southeast-1.dmp-api-dev.ads.linkedin.com
 ap-southeast-1.gamma.analytics.console.aws.a2z.com
 ap-static.sociomantic.net
 apsx.adpiano.com
@@ -374,6 +376,7 @@ bis-ssl.beeviewd.com
 bis-ssl.bestcontentonline.com
 bis-ssp-ssl.bestcontentonline.com
 bis-ssp-ssl.installfarm.com
+biyaredap.backup.sh
 biz.appsflyer.com
 bk.phx.addthis.com
 black.erne.co
@@ -407,6 +410,7 @@ businessspectrum.adlegend.com
 buypixelads.com
 bw1.midasplayer.com
 bw.bidder.inmobi.com
+bw-uswest-bidder.appd.inmobi.com
 c1.shoofle.tv
 c23.adrise.tv
 c2s-dynadmic.liverail.com
@@ -490,6 +494,7 @@ ci.sxp.smartclip.net
 citoengine.corp.inmobi.com
 ck-eji-weather.joystickinteractive.com
 clavis.arc2.nile.works
+clevelandclinic.sp1.convertro.com
 click.solocpm.com
 clientmanagement.aws.lijit.com
 clientmanagement.dfw2.lijit.com
@@ -536,11 +541,13 @@ corp.inmobi.com
 corp.midasplayer.com
 corporate.wp.orbee.co
 countserver.k.sharethis.net
+count-server-lb.global.prod1.sharethis.net
 cow.dev.linear.aws.fwmrm.net
 crash.amplitude.com
 crave.dev.joystickinteractive.com
 creatives.staging.sharethrough.com
 creatives.xplosion.de
+creative.xtendmedia.com
 crowd.rubiconproject.com
 crunch.ebuzzing.com
 cs.iubenda.com
@@ -620,6 +627,7 @@ dev-ingress-test1.k8s.sendgrid.net
 dev-j-serval.adtdp.com
 dev.khingtracking.com
 dev.liverail.com
+dev.madmobile.com
 dev-main.webgains.com
 dev.outbrain.com
 dev.pixlee.com
@@ -775,6 +783,7 @@ filter0094p3mdw1.sendgrid.net
 firehound.prod.paperg.com
 fleet-test.corp.ligatus.com
 fleurop-service.adtelligence.de
+flurry-bidder.manage.com
 f.nuggad.net
 focuscamerahu.worldgravity.com
 focus.impdesk.com
@@ -829,6 +838,7 @@ glbad.adtechjp.com
 glb-ads.aftonbladet.adtech.de
 glbimg.adtechus.com
 glbl.adlegend.com
+gl.imrworldwide.com
 global-pixel.sojern.com
 glossy.adroll.com
 g.mbm.cn.miaozhen.com
@@ -1036,6 +1046,7 @@ k8s.region-001.s-euc-1.braze.eu
 k8s.stc-001.p-euc-1.braze.eu
 kavegepbolthu.worldgravity.com
 kb.pardot.com
+k.clean.gg
 keeza.dev-iad.amobee.com
 kezmuvesellatohu.yusp.com
 kibana.prd.fyber.com
@@ -1127,6 +1138,7 @@ mattermost.thebrighttag.com
 m.awin1.com
 maxcdn.quantserve.com
 mb.propellerads.com
+mcd-snowflake-e2e.sendgrid.net
 mcproxy-e2e.sendgrid.net
 mc.viglink.com
 md.audience.gemius.com
@@ -1170,6 +1182,7 @@ mkto-ab040164.com
 mkto-b0065.com
 mkto-q0111.com
 mkto-sj090022.com
+mlc.maxpoint.com
 mldev.sigma.inmobi.com
 m.monsterhigh.staging.madmobile.com
 mnetrtbcdn.media.net
@@ -1217,6 +1230,7 @@ na1.thunderhead.com
 naiendpoint.k.sharethis.net
 napi.thirdpresence.com
 nartg.widerplanet.com
+nastg.widerplanet.com
 nativesdks.ae1.mparticle.com
 netbox.cloudops-dev.sendgrid.net
 netflights.beta.userreplay.net
@@ -1500,6 +1514,7 @@ quiz.wp.orbee.co
 qvc.adlegend.com
 r10---sn-p5qlsney.c.googlesyndication.com
 r10---sn-p5qlsnse.c.googlesyndication.com
+r18---sn-ab5l6n7d.c.googlesyndication.com
 r20---sn-p5qlsn7e.c.googlesyndication.com
 r2.ace.advertising.com
 r2.adserver01.de
@@ -1554,6 +1569,7 @@ rpr.newrelic.com
 rpt1.res-x.com
 rpt.rad.atdmt.com
 rrd.rlcdn.com
+r.rockabox.co
 rs.nexus.ensighten.com
 rtb1-hk.admaxim.com
 rtb-apac.adsymptotic.com
@@ -1728,6 +1744,7 @@ ssl-i-cdn.servedbyopenx.com
 ssl.playhaven.com
 ssl.rutarget.ru
 ssl-skom2media.2cnt.net
+sslvpn.foreseeresults.com
 ssl-xsp-test.smrtb.com
 ssp-anyclip.streamrail.net
 ssp-fe-us-e2.content-ad.net
@@ -1775,6 +1792,7 @@ status-fast.addthis.com
 status-sorry.geojs.io
 stbcast2.metric.gstatic.com
 stbcast2-stb.metric.gstatic.com
+stbcast4-stb.metric.gstatic.com
 stbcast5.metric.gstatic.com
 st.doublemax.net
 st.extremereach.com
@@ -1885,6 +1903,7 @@ tracking.cp.ligatus.com
 tracking-rce.veeseo.com
 tracking.servebom.com
 track.ligatus.com
+traffic.adpiano.com
 trans.silverpop.com
 trc-cc.taboola.com
 trig.i.wix.com
@@ -1911,6 +1930,7 @@ ukvpn.thunderhead.com
 ulink.adjust.com
 umavn.worldgravity.com
 unicast2.metric.gstatic.com
+unitcore-stats-us-east-1.adotube.com
 unrulyx-eu-004.unrulymedia.com
 unrulyx-eu-008.unrulymedia.com
 unrulyx-eu-010.unrulymedia.com
@@ -1976,6 +1996,7 @@ us-east-1-production-web-tw.lift.acquia.com
 us-east-1.rtb.districtm.io
 us-east-1.segment-asg.bidr.io
 us-east-2.gamma.analytics.console.aws.a2z.com
+us-east.tlx.3lift.com
 u.sec.fastly-insights.com
 userdata-psa.krxd.net
 usermatix.corp.inmobi.com
@@ -2026,6 +2047,7 @@ vi.gumgum.com
 vikingclicks.sitescoutadserver.com
 vm.dev.midasplayer.com
 vmg.rtb.loopme.me
+vmware03.dc.grapeshot.co.uk
 voicefive-sb-wc.adtechus.com
 vox.urbanairship.com
 vpn-london.exacttarget.com
@@ -2284,6 +2306,7 @@ www.et.nytimes.com
 www.e.visualdna.com
 www.extranet.dotomi.com
 www.fadb.xyz
+www.fasterdltypeliteflash.icu
 www.fbapp1.theappgrader.com
 www.fbot.me
 www.felix.adhigh.net
@@ -2295,6 +2318,7 @@ www.gaeadata.com
 www.gamegenetics.net
 www.gateway.ifc.inmobi.com
 www.geoedge.be
+www.get.appsee.com
 www.get.qualtrics.com
 www.glance-workbench.sigma.inmobi.com
 www.glassboxcdn.com
@@ -2359,6 +2383,7 @@ www.loopmertb.com
 www.lootsie.com
 www.madata.newlook.com
 www.mail.ny.contextweb.com
+www.marfeelcache.com
 www.marfeelrev.com
 www.marketing.triplelift.com
 www.mc.viglink.com
@@ -2446,6 +2471,7 @@ www.pluto.mgr.consensu.org
 www.pmp.mxptint.net
 www.pool.grid-data.bidswitch.net
 www.prod-mng-proxy-connext.azurewebsites.net
+www.pro-market.net
 www.proxy.dynamicyield.com
 www.pscore-beta.pixel.printsites.net
 www.pso.inmobi.com
@@ -2554,6 +2580,7 @@ www.usermatix.corp.inmobi.com
 www.us.static.adjug.com
 www.u.stage.ad.gt
 www.vacaneedasap.com
+www.vangogher.glance.inmobi.com
 www.venus.inmobi.com
 www.vision.taboola.com
 www.v.jsrdn.com
@@ -2596,6 +2623,7 @@ www.y4g3d2v1.com
 www.yhp.mxptint.net
 www.yieldoptimizer.com
 www.zentr.cc
+www.zentrick.io
 www.zlp6s.pw
 www.zookeeper-integration.mparticle.com
 xdswrite.us.experimentation.intuit.com
