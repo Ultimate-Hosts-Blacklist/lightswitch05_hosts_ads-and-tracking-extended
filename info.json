@@ -1,10 +1,19 @@
 {
-    "currently_under_test": "0",
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 75,
+            "invalid": 0,
+            "tested": 690,
+            "up": 615
+        }
+    },
+    "currently_under_test": "1",
     "days_until_next_test": 1,
     "end_datetime": "Fri Dec 20 13:46:52 2019",
     "end_epoch": 1576849612.56125,
-    "last_autosave_datetime": "Fri Dec 20 12:53:49 2019",
-    "last_autosave_epoch": 1576846429.432481,
+    "last_autosave_datetime": "Fri Dec 20 23:39:16 2019",
+    "last_autosave_epoch": 1576885156.03925,
     "name": "lightswitch05_hosts_ads-and-tracking-extended",
     "previous_stats": {
         "builds": 417,
@@ -20,6 +29,6 @@
         "whitelisted.list": 76800
     },
     "raw_link": "https://raw.githubusercontent.com/lightswitch05/hosts/master/ads-and-tracking-extended.txt",
-    "start_datetime": "Wed Nov 27 21:31:21 2019",
-    "start_epoch": 1574890281.662753
+    "start_datetime": "Fri Dec 20 23:29:12 2019",
+    "start_epoch": 1576884552.710209
 }
