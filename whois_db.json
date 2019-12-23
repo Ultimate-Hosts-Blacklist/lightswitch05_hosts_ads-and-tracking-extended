@@ -1,4 +1,14 @@
 {
+    "163.com": {
+        "epoch": 1789344000.0,
+        "expiration_date": "14-sep-2026",
+        "state": "future"
+    },
+    "adclear.net": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
     "adgibbon.com": {
         "epoch": 1604275200.0,
         "expiration_date": "02-nov-2020",
@@ -9,14 +19,34 @@
         "expiration_date": "08-dec-2020",
         "state": "future"
     },
+    "adtechjp.com": {
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
+        "state": "future"
+    },
     "app.link": {
         "epoch": 1805328000.0,
         "expiration_date": "18-mar-2027",
         "state": "future"
     },
+    "chartbeat.com": {
+        "epoch": 1596326400.0,
+        "expiration_date": "02-aug-2020",
+        "state": "future"
+    },
+    "ebuzzing.com": {
+        "epoch": 1590105600.0,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
     "fqtag.com": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
+        "state": "future"
+    },
+    "getcoopt.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "hullapp.io": {
@@ -27,6 +57,16 @@
     "mkto-abm0208.com": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "mkto-lon020292.com": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
+    "mkto-sj020094.com": {
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
         "state": "future"
     },
     "ntv.io": {
@@ -42,6 +82,31 @@
     "segment.io": {
         "epoch": 1633046400.0,
         "expiration_date": "01-oct-2021",
+        "state": "future"
+    },
+    "silveregg.net": {
+        "epoch": 1583107200.0,
+        "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
+    "sniperimg4.com": {
+        "epoch": 1582675200.0,
+        "expiration_date": "26-feb-2020",
+        "state": "future"
+    },
+    "tinkoff.ru": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
+    "urbanairship.com": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
+    "winnerlink.xyz": {
+        "epoch": 1595203200.0,
+        "expiration_date": "20-jul-2020",
         "state": "future"
     }
 }
