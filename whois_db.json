@@ -1,4 +1,9 @@
 {
+    "adspirit.net": {
+        "epoch": 1599609600.0,
+        "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
     "adsrvs.com": {
         "epoch": 1611705600.0,
         "expiration_date": "27-jan-2021",
@@ -7,6 +12,16 @@
     "advenuedsp.com": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
+    "advolution.biz": {
+        "epoch": 1579737600.0,
+        "expiration_date": "23-jan-2020",
+        "state": "future"
+    },
+    "algovid.com": {
+        "epoch": 1593043200.0,
+        "expiration_date": "25-jun-2020",
         "state": "future"
     },
     "altitude-arena.com": {
@@ -82,6 +97,11 @@
     "voicefive.com": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
+        "state": "future"
+    },
+    "xadchina.cn": {
+        "epoch": 1584576000.0,
+        "expiration_date": "19-mar-2020",
         "state": "future"
     }
 }
