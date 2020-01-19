@@ -1,4 +1,14 @@
 {
+    "254a.com": {
+        "epoch": 1710028800.0,
+        "expiration_date": "10-mar-2024",
+        "state": "future"
+    },
+    "adrd.co": {
+        "epoch": 1602374400.0,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
     "appdynamics.com": {
         "epoch": 1752278400.0,
         "expiration_date": "12-jul-2025",
@@ -9,9 +19,19 @@
         "expiration_date": "13-apr-2021",
         "state": "future"
     },
+    "dable.io": {
+        "epoch": 1615334400.0,
+        "expiration_date": "10-mar-2021",
+        "state": "future"
+    },
     "dvtps.com": {
         "epoch": 1724198400.0,
         "expiration_date": "21-aug-2024",
+        "state": "future"
+    },
+    "geniusonclick.com": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
         "state": "future"
     },
     "lndata.com": {
@@ -22,6 +42,11 @@
     "media-lab.ai": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
+        "state": "future"
+    },
+    "ophan.co.uk": {
+        "epoch": 1580515200.0,
+        "expiration_date": "01-feb-2020",
         "state": "future"
     },
     "pingdom.net": {
