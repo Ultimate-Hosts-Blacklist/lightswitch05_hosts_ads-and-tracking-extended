@@ -23,6 +23,7 @@
 1069-ant.conversive.nl
 107-23-57-65.tworismo.com
 1082-ant.conversive.nl
+10.proxy.us-east-1.world.rw.yieldmo.com
 1-10-k8s.dev-iad.amobee.com
 11.gmial.com
 11.proxy.us-east-1.world.rw.yieldmo.com
@@ -230,6 +231,7 @@ adserver-a-mtc.adtechus.com
 adserver-a-northeast-1.adtechjp.com
 adserver.aol.advertising.com
 adserver-a-southeast-1.adtechjp.com
+adserver-cdn.sitescout.com
 adserver.devel.adswizz.com
 adserver-dpamt.adtech.de
 adserver.innovativemetrics.com
@@ -273,6 +275,7 @@ ads.yieldmo.com.yieldmo.com
 adtag.api.loopme.me
 adtg1.widerplanet.com
 adtg7.widerplanet.com
+adtg8.widerplanet.com
 adtg9.widerplanet.com
 adtrack.admaxim.com
 ad-track.aralego.com
@@ -520,8 +523,8 @@ apis-ci.web.analytics.yahoo.com
 apiservices-a001.krxd.net
 api.shannon.test.appsee.com
 api.simpli.fi
-apis.staging.sharethrough.com
 apis-staging.sharethrough.com
+apis.staging.sharethrough.com
 api.staging.connatix.com
 api-staging.playbuzz.com
 api.stg.samplicio.us
@@ -599,6 +602,7 @@ ap-southeast-1.smadex.com
 ap-southeast-2.prod.analytics.console.aws.a2z.com
 ap-static02.sociomantic.com
 ap-static.sociomantic.com
+ap-static.sociomantic.net
 apt-match.adsrvr.org
 apt-repo.corp.inmobi.com
 apx.c.appier.net
@@ -715,6 +719,7 @@ aws-adserver-origin.adtechjp.com
 aws.apex.go.sonobi.com
 aws.bare-metal.logrocket.io
 aws-cni-test.us-west-2.k8s.ops.tune.com
+awsemr.adsrvr.org
 aws.go.sonobi.com
 aws.prod-mill.macromill.com
 aws.prod-mobile.macromill.com
@@ -796,6 +801,7 @@ benchmark.acxiom.com
 bender.appboy.com
 best5768.checkyourmoneybox98.loan
 bestbuyholiday.joystickinteractive.com
+beta2.ace.advertising.com
 beta-adserver.adtechus.com
 beta-editorial.outbrain.com
 beta-imageserver.adtech.de
@@ -889,6 +895,7 @@ brightroll.rtb.loopme.me
 br.np.adproxy.ndmdhs.com
 broadcast5.piximedia.fr
 broker-builder.staging-video-v2.fyber.com
+broker.classifier.superawesome.tv
 br.returnpath.net
 brxdtest.nexage.com
 brx.pxl.ace.advertising.com
@@ -1028,6 +1035,7 @@ cdn-google-v3.conductrics.com
 cdn.imgsniper.com
 cdn.ish.atdmt.com
 cdn.mm.atwola.com
+cdnp.chris.pushspring.com
 cdn-secure.liverail.com
 cdn.sf-forms-content-sf.sendgrid.net
 cdns.turn.com
@@ -1040,6 +1048,7 @@ cdn.wtp101.com
 cellphone.owneriq.net
 centraltag-admin.dbidatatech.com
 centraltag-service.dbidatatech.com
+cert-kvrunbook-authentication.applicationinsights.io
 cert-manager-test-2.staging.bounceexchange.com
 certs.corp.mparticle.com
 cf.adsttc.com
@@ -1052,6 +1061,7 @@ changehistory.dev.appbe.optimizely.com
 changehistory-dev-fd2.appbe.optimizely.com
 changehistory-dev-jstest.appbe.optimizely.com
 changehistory-dev-sid.appbe.optimizely.com
+changehistory-dev-travis.appbe.optimizely.com
 changehistory-dev-travis.dev.appbe.optimizely.com
 changelog.geojs.io
 chango.rubiconproject.com
@@ -1065,12 +1075,14 @@ cheetahmobileadx.dca.events.bidstalk.com
 chef.loopme.me
 chidc2vr.outbrain.com
 chikua.qa-iad.amobee.com
+choueiri.adswizz.com
 ci4.dev.sizmdx.com
 ci5.sizmdx.com
 ci7.dev.sizmdx.com
 ci-api.conviva.com
 c.ina.media.net
 cinemad.us-west-2.stinger-ad.bidr.io
+cirkoza.qa-iad.amobee.com
 citacx.acxiom.com
 citacxdmz.acxiom.com
 ci.thirdpresence.com
@@ -1138,6 +1150,7 @@ cn-monitor.macromill.com
 cn-sonar.sociomantic.com
 cn-static.sociomantic.com
 code.elfsight.com
+cog2.bnmla.com
 cohorts.appsflyer.com
 collect.cn.miaozhen.com
 collect.data.nuggad.net
@@ -1216,6 +1229,7 @@ creativeby2.unicast.com
 creativecentral.advertising.com
 creatives.acceptance.sharethrough.com
 creative.skyrocket.adtdp.com
+creatives.loopme.me
 creative.smadex.com
 creatives.staging.sharethrough.com
 creative.xtendmedia.com
@@ -1247,6 +1261,7 @@ cvavpn.neodatagroup.com
 cvgenius.containers.piwik.pro
 cvonline.worldgravity.com
 cvs-p.shopcurbside.com
+cvs.shopcurbside.com
 cvs-s.shopcurbside.com
 cw01.smaato.net
 cxi-api-demo.wootric.com
@@ -1370,9 +1385,11 @@ dev-dashboard-rest-api.datadome.co
 dev.dealmanager.ligatus.com
 devdevdev.singular.net
 dev.districtm.ca
+dev-dmx.districtm.io
 develop.dataconnect.macromill.com
 develop.tech.163.com
 deveshetachcoil.yusp.com
+dev.forter.com
 dev-ingress-test1-iad2.k8s.sendgrid.net
 dev-ingress-test1.k8s.sendgrid.net
 dev-ingress-test9-las1.k8s.sendgrid.net
@@ -1421,6 +1438,7 @@ dmp.loopme.me
 dmv.dmpxs.com
 d.mx.e.redbox.com
 dmx.us-east-1.districtm.io
+dmx.us-east-1.districtm.io.districtm.io
 dmx.us-east-2.districtm.io
 dmx.us-west-2.districtm.io
 dn.ravenjs.com
@@ -1604,6 +1622,7 @@ eu1-00000029.userreplay.net
 eu1-00000033.userreplay.net
 eu1-00000036.userreplay.net
 eu1.alb.wzrkt.com
+eu2-00000002.userreplay.net
 eu2-00000009.userreplay.net
 eu-25.sociomantic.com
 eu2-engine.thunderhead.com
@@ -1621,6 +1640,7 @@ eu.impdesk.com
 eu-jet-01.sociomantic.com
 eu.kampyle.com
 eu-pool.d.company-target.com
+eu.preprod.criteo.com
 eu-propulsor-02.sociomantic.com
 eu-rec4.scarabresearch.com
 europessl.ati-host.net
@@ -1683,9 +1703,11 @@ extdns00-aus.returnpath.net
 external.inlocomedia.com
 external.labs.ebuzzing.com
 ext-int-beta.convertcart.com
+extmap.an.ace.advertising.com
 extmap.rub.ace.advertising.com
 ext.mediav.com
 extole-creatives.qa.extole.io
+extranet.bandwidthx.net
 eyeta.dev-iad.amobee.com
 eyeta.qa-iad.amobee.com
 f12-us-va.cpagen.win
@@ -1772,6 +1794,7 @@ fios.sp1.convertro.com
 firehound.prod.paperg.com
 firstfetchflash.club
 fisico.sitescoutadserver.com
+f.ix.de
 flash.undertone.com
 fleet-test.corp.ligatus.com
 fleurop-service.adtelligence.de
@@ -1886,6 +1909,7 @@ git01.int03.theadex.com
 gitz.adform.com
 gkng.ayads.co
 gl-7001dc16.curalate.com
+glados.urbanairship.com
 glance-ds.sigma.inmobi.com
 glb-ads2.atwola.adtechus.com
 glb-ads.adplus.adtech.de
@@ -1901,6 +1925,7 @@ global.qc.rtb.quantserve.com
 gls.rt.cquotient.com
 gman.gmial.com
 gmstorage.elfsight.com
+go5.aniview.com
 go6.aniview.com
 go7.aniview.com
 go.adadyn.com
@@ -1913,6 +1938,7 @@ gold.erne.co
 gomjam.dev-iad.amobee.com
 googleads.g.doubleclick.com
 google.rtb.loopme.me
+google-us.rtb.loopme.me
 google.us-west.rtb.dataxu.net
 go.paradym.com
 go-servernameapi-custom.k8s.sendgrid.net
@@ -1945,6 +1971,7 @@ g.sea.miaozhen.com
 g-sg.wtp101.com
 gsm.applicationinsights.io
 g.tac.cn.miaozhen.com
+g.th.miaozhen.com
 guestportal.rubiconproject.com
 gui-dev.apps.bounceexchange.com
 gui.geoedge.be
@@ -2049,6 +2076,7 @@ iam-sb-ams.adtech.de
 ia.thunderhead.com
 ibanna.dev-iad.amobee.com
 iberia.activate.ensighten.com
+ibp.3lift.com
 icds.ad.gt
 icinga.dmp.ligatus.com
 icloud.com-sign.in
@@ -2305,6 +2333,7 @@ js80.neodatagroup.com
 js.atf.microad.jp
 js.bytegain.com
 json-feed.ext.nile.works
+jssdks-edge.mparticle.com
 js.stormiq.com
 js-validator.dev.appbe.optimizely.com
 js-validator.qa.appbe.optimizely.com
@@ -2465,6 +2494,7 @@ logitech.sp1.convertro.com
 logmeinrescue.sp1.convertro.com
 logmodule-v1.sizmdx.com
 logmodule-v6.sizmdx.com
+logo.demandbase.com
 logos.outbrain.com
 logs.logrocket.com
 logs.t.altitude-arena.com
@@ -2572,6 +2602,7 @@ mdmloader-application.canc.prod.applicationinsights.io
 mdmloader-encryption.cin.prod.applicationinsights.io
 mdmloader-publishing.cin.prod.applicationinsights.io
 mdmloader-publishing.uks.prod.applicationinsights.io
+mdm-prod-auth-cert.applicationinsights.io
 md-test-lb.npttech.com
 media10.adlegend.com
 media12.adlegend.com
@@ -2598,6 +2629,7 @@ mediasetr.neodatagroup.com
 media.so.com
 mediastore.adconion.com
 medpakcompl.worldgravity.com
+medpakcompl.yusp.com
 meeting.abtasty.com
 meetme.vidconlab.acxiom.com
 megatron.bnmla.com
@@ -2641,6 +2673,7 @@ mgmresorts.sp1.convertro.com
 mgmt-angular.dev.stage.us-east-1.kops.kargo.com
 mi2.midasplayer.com
 mi3.midasplayer.com
+mia.lisnr.com
 microsoftstore.activate.ensighten.com
 mime-samples-sandbox.sendgrid.net
 mindflash-api.cs.keen.io
@@ -2721,6 +2754,7 @@ mx.gmial.com
 mx.solocpm.com
 mx.xplosion.de
 myadmax.nexage.com
+myfiles.nexage.com
 myflaviaus.adlegend.com
 myfsr.foreseeresults.com
 my.salesloft.com
@@ -2795,6 +2829,7 @@ newlam25.yieldmo.com
 newlam26.yieldmo.com
 newperformancegroup.engine.adglare.net
 news.mkto-b0065.com
+nexage.click.bidstalk.com
 nexage.win.bidstalk.com
 nexilone.mediaplan.ovh.net
 nexpose.zanox.com
@@ -2862,6 +2897,7 @@ nydc1fgt.outbrain.org
 nyeta.dev-iad.amobee.com
 nyjexp001.exelator.com
 nyms.linksynergy.com
+o1678924164.outbound-mail.sendgrid.net
 o1.email.kampyle.com
 o1.email.rubiconproject.com
 o1.sendgrid.convertcart.com
@@ -2872,6 +2908,7 @@ oasc05047.247realmedia.com
 oasc05059.247realmedia.com
 oasc05139.247realmedia.com
 oasc06006.247realmedia.com
+oasc08.247realmedia.com
 oasc14.247realmedia.com
 oasc17012.247realmedia.com
 oasc17095.247realmedia.com
@@ -2902,6 +2939,7 @@ of-proxy06.dskfv.de
 of-proxy08.dskfv.de
 ogdp-staging.flurry.com
 oidc-test-k8s.dev-iad.amobee.com
+oikcmprdeusfe01.kcm.applicationinsights.io
 okka.qa-iad.amobee.com
 ok.nanorep.com
 ok.streamrail.net
@@ -2976,6 +3014,7 @@ ox-d.ebayde.servedbyopenx.com
 ox-d.ezoic.servedbyopenx.com
 ox-d.futurenet.servedbyopenx.com
 ox-d.gatewaymedia.servedbyopenx.com
+ox-d.imgur.servedbyopenx.com
 ox-d.internetbrands.servedbyopenx.com
 ox-d.kwick.servedbyopenx.com
 ox-d.leessp.servedbyopenx.com
@@ -3099,6 +3138,7 @@ player.innovid.com
 player.installfarm.com
 player.placeyourview.com
 playlist.ma.tune.com
+play-qa.syndicaster.tv
 p-lb12.eu.adsymptotic.com
 p-lb13.eu.adsymptotic.com
 p-lb15.eu.adsymptotic.com
@@ -3127,6 +3167,7 @@ popflawl.essads.com
 pop.gmial.com
 pops.fastly-insights.com
 portal-answerscloud-com.lb.foreseeresults.com
+post-scans.bandwidthx.net
 post.update.suite6ixty6ix.com
 ppc.webtrends.com
 ppea.optimize.webtrends.com
@@ -3245,6 +3286,7 @@ proxy-ssl.bestcontentonline.com
 proxy-ssl.installfarm.com
 proxy-ssl.placeyourview.com
 proxytest1.sptest.backtrace.io
+proxy.us-west-2.world.rw.yieldmo.com
 ps2002.wdc.bluekai.com
 ps2007.wdc.bluekai.com
 ps2013.wdc.bluekai.com
@@ -3267,6 +3309,7 @@ ps2122.wdc.bluekai.com
 ps2123.wdc.bluekai.com
 ps2132.wdc.bluekai.com
 ps2149.wdc.bluekai.com
+ps2166.wdc.bluekai.com
 ps2170.wdc.bluekai.com
 ps2172.wdc.bluekai.com
 ps2175.wdc.bluekai.com
@@ -3334,6 +3377,7 @@ r11---sn-p5qlsnez.c.googlesyndication.com
 r13.sn-a5m7ln76.c.googlesyndication.com
 r14.sn-a5m7ln76.c.googlesyndication.com
 r14---sn-ab5l6n7e.c.googlesyndication.com
+r14---sn-p5qlsnez.c.googlesyndication.com
 r17---sn-ab5l6n7y.c.googlesyndication.com
 r18---sn-ab5l6n7d.c.googlesyndication.com
 r19.sn-25ge7n7s.c.googlesyndication.com
@@ -3377,6 +3421,7 @@ rcm.bibblio.org
 rcnc.syndication.kbb.com
 rco.reamp.com.br
 rcv1.dnset.com
+rcv2.dnset.com
 rd-ext.rlcdn.com
 rd.rlcdn.com
 rdr-test2.adsfactor.net
@@ -3388,6 +3433,7 @@ reboot.sitescout.com
 rebuildxxsdrfght.yodelmobile.com
 rec.api.so.com
 recorder.meeting.abtasty.com
+red.dmpxs.com
 redirect.adkmob.com
 redirectme.urbaninsight.com
 reebok.rdr.channelintelligence.com
@@ -3509,8 +3555,8 @@ r-va.wtp101.com
 rw.devvm.imprev.net
 s-07.optvdo.com
 s10.allinviews.com
-s-10.optvdo.com
 s10.optvdo.com
+s-10.optvdo.com
 s10.shoofle.tv
 s-12.optvdo.com
 s12.urbaninsight.com
@@ -3583,6 +3629,7 @@ san.fyber.com
 sa.perimeterx.net
 sassets.ebuzzing.com
 savegolddealliteflash.icu
+s-ber1-lb-001.zanox.com
 sbpixel1.adtechus.com
 sbroker-service.adtelligence.de
 sbx1.2o7.net
@@ -3604,6 +3651,7 @@ sdkm.inmobi.cn
 sdk.nexage.com
 sdk.platform.bluecava.com
 sdk.rubiconproject.com
+s.dlx.addthis.com
 sdn2.ovh.net
 sea-dc01.marketo.net
 sea.gemini.yahoo.com
@@ -3783,6 +3831,7 @@ spectral.sitescoutadserver.com
 spectrum.adlegend.com
 spectrum.encryption.applicationinsights.io
 speedycash.sp1.convertro.com
+spg.demandbase.com
 sphere-fgt.outbrain.org
 spiegel.rce.veeseo.com
 s.ping-origin-prd.jwpltx.com
@@ -3794,6 +3843,7 @@ spotx.rtb.loopme.me
 spring.2cnt.net
 spscan.acxiom.com
 sre.zemanta.com
+srv10.adpiano.com
 srv12.adpiano.com
 srv13.adpiano.com
 srv14.adpiano.com
@@ -4042,6 +4092,7 @@ tcv.sitescoutadserver.com
 teads.rtb.loopme.me
 team.doubleclick.com
 teams-admin.optimizely.com
+team-tools.deviceatlas.com
 teamy.gmial.com
 tech.flurry.com
 techsource.247realmedia.com
@@ -4063,6 +4114,7 @@ test-afp.aws.amobee.com
 testalb6.yieldmo.com
 testalb8.yieldmo.com
 testalb9.yieldmo.com
+testblog.us-west-2.test.aws.keen.io
 testcddc.xiti.com
 testcert.247realmedia.com
 test-cert.dev-iad.amobee.com
@@ -4162,6 +4214,7 @@ tracking.bannerflow.com
 tracking.banner.monarchads.com
 tracking.campaign-tracking-service.prod.paperg.com
 tracking.cp.ligatus.com
+tracking.eu1.m6r.eu
 tracking.servebom.com
 tracks.aniview.com
 track.solocpm.com
@@ -4315,6 +4368,7 @@ unrulyx-us-041.unrulymedia.com
 unrulyx-us-042.unrulymedia.com
 unrulyx-us-045.unrulymedia.com
 unrulyx-us-155.unrulymedia.com
+unrulyx-us-157.unrulymedia.com
 unrulyx-us-160.unrulymedia.com
 unrulyx-us-166.unrulymedia.com
 unrulyx-us-171.unrulymedia.com
@@ -4403,6 +4457,7 @@ v-32.algovid.com
 v-34.algovid.com
 v-37.algovid.com
 v-39.algovid.com
+v4.metric.gstatic.com
 vaes.iad.amazon-adsystem.com
 vaes.pdx.amazon-adsystem.com
 vaes.pdx.preprod.amazon-adsystem.com
@@ -4472,8 +4527,8 @@ videoserve.engageclick.com
 videoshakers.thirdpresence.com
 videos.sharethrough.com
 videos.springserve.com
-videos-staging.sharethrough.com
 videos.staging.sharethrough.com
+videos-staging.sharethrough.com
 vid.pardot.com
 vidyorouter.rubiconproject.com
 view.skyrocket.adtdp.com
@@ -4856,6 +4911,7 @@ www.cpagen.win
 www.cpanel06.c3metrics.com
 www.cp.tune.com
 www.crb.innovid.com
+www.creative.metalyzer.com
 www.creative.mlsat02.de
 www.criteo.net
 www.crowd.rubiconproject.com
@@ -4978,6 +5034,7 @@ www.github.tools.inmobi.com
 www.glpfactory.weborama.fr
 www.gm-advertising.com
 www.googlesyndication.com
+www.go.salesloft.com
 www.go.taboola.com
 www.gotime.backtrace.io
 www.gpu4001.ds.ev1.inmobi.com
@@ -5058,6 +5115,7 @@ www.livepass.conviva.com
 www.livepassdl.conviva.com
 www.livepassdl.secure.conviva.com
 www.llanalytics.com
+www.llnw.ssacdn.com
 www.lmedge.net
 www.locationserve.com
 www.login-dev.amobee.com
@@ -5092,6 +5150,7 @@ www.mediaplanner.uat.inmobi.com
 www.metrics.marketing365.mk
 www.metrics.panadvert.com
 www.midgreatdlliteflash.icu
+www.minutemediacdn.com
 www.mixmaintainbestaflash.icu
 www.mkto-ab040164.com
 www.mkto-ab090106.com
@@ -5228,6 +5287,7 @@ www.reaper.pulse.inmobi.com
 www.rec.scupio.com
 www.recs.igodigital.com
 www.reddit.co
+www.red.dmpxs.com
 www.register.adtag.neodatagroup.com
 www.relay.gmial.com
 www.replayservice3.foreseeresults.com
@@ -5269,6 +5329,7 @@ www.secure.audiensis.com
 www.secure-ds.serving-sys.com
 www.secure.dtmpub.com
 www.secus.admailtiser.com
+www.selfservice.mediamind.com
 www.semasio.net
 www.sentry.getadmiral.com
 www.server.extend.tv
@@ -5394,6 +5455,7 @@ www.turncdn.com
 www.turnuniversity.turn.com
 www.tw.cx
 www.tworismo.com
+www.uaadcodedsp.rontar.com
 www.uat.opinion.inmobi.com
 www.uat.pulse.inmobi.com
 www.u.d3sv.net
@@ -5453,6 +5515,7 @@ www.vps683200.ovh.net
 www.vps683700.ovh.net
 www.vps694200.ovh.net
 www.vps701200.ovh.net
+www.vps706300.ovh.net
 www.vps711200.ovh.net
 www.vps732900.ovh.net
 www.vps742000.ovh.net
@@ -5496,6 +5559,7 @@ www.your-surveys.insightexpressai.com
 www.zdbb.net
 www.zendesk.sizmek.com
 www.zentr.cc
+www.zqtk.net
 wxjs.miaozhen.com
 x17.cloud.kargo.com
 xcaa9065.citacx.acxiom.com
