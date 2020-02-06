@@ -294,6 +294,11 @@
         "expiration_date": "08-jan-2021",
         "state": "future"
     },
+    "adsfactor.net": {
+        "epoch": 1660521600.0,
+        "expiration_date": "15-aug-2022",
+        "state": "future"
+    },
     "adsrvs.com": {
         "epoch": 1611705600.0,
         "expiration_date": "27-jan-2021",
@@ -534,9 +539,19 @@
         "expiration_date": "12-mar-2021",
         "state": "future"
     },
+    "bannerflow.com": {
+        "epoch": 1591142400.0,
+        "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
     "beeviewd.com": {
         "epoch": 1612828800.0,
         "expiration_date": "09-feb-2021",
+        "state": "future"
+    },
+    "bestadbid.com": {
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
         "state": "future"
     },
     "betrad.com": {
@@ -644,6 +659,11 @@
         "expiration_date": "15-jan-2023",
         "state": "future"
     },
+    "callmeasurement.com": {
+        "epoch": 1594684800.0,
+        "expiration_date": "14-jul-2020",
+        "state": "future"
+    },
     "carambo.la": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
@@ -739,6 +759,11 @@
         "expiration_date": "10-oct-2021",
         "state": "future"
     },
+    "com-sign.in": {
+        "epoch": 1596412800.0,
+        "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
     "commissionjunction.com": {
         "epoch": 1613088000.0,
         "expiration_date": "12-feb-2021",
@@ -772,6 +797,11 @@
     "convertexperiments.com": {
         "epoch": 1591315200.0,
         "expiration_date": "05-jun-2020",
+        "state": "future"
+    },
+    "convertro.com": {
+        "epoch": 1707436800.0,
+        "expiration_date": "09-feb-2024",
         "state": "future"
     },
     "convrse.media": {
@@ -897,6 +927,11 @@
     "drawbrid.ge": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
+    "driftt.com": {
+        "epoch": 1793404800.0,
+        "expiration_date": "31-oct-2026",
         "state": "future"
     },
     "dtmpub.com": {
@@ -1604,6 +1639,11 @@
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
+    "microad-cn.com": {
+        "epoch": 1586217600.0,
+        "expiration_date": "07-apr-2020",
+        "state": "future"
+    },
     "midasplayer.com": {
         "epoch": 1584144000.0,
         "expiration_date": "14-mar-2020",
@@ -2234,6 +2274,11 @@
         "expiration_date": "21-feb-2021",
         "state": "future"
     },
+    "sbfsdvc.com": {
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
+        "state": "future"
+    },
     "scanscout.com": {
         "epoch": 1590624000.0,
         "expiration_date": "28-may-2020",
@@ -2332,7 +2377,7 @@
     "silverpush.co": {
         "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "sitescout.com": {
         "epoch": 1589241600.0,
