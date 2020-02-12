@@ -1,7 +1,27 @@
 {
+    "adagionet.com": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
+    "adobedtm.com": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
     "adserve.video": {
         "epoch": 1608508800.0,
         "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
+    "altitude-arena.com": {
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "state": "future"
+    },
+    "doubleclick.com": {
+        "epoch": 1590624000.0,
+        "expiration_date": "28-may-2020",
         "state": "future"
     },
     "en25.com": {
@@ -9,9 +29,34 @@
         "expiration_date": "07-feb-2022",
         "state": "future"
     },
+    "leadfeeder.com": {
+        "epoch": 1657756800.0,
+        "expiration_date": "14-jul-2022",
+        "state": "future"
+    },
+    "loopmeedge.net": {
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "state": "future"
+    },
     "mktossl.com": {
         "epoch": 1667260800.0,
         "expiration_date": "01-nov-2022",
+        "state": "future"
+    },
+    "opmnstr.com": {
+        "epoch": 1704326400.0,
+        "expiration_date": "04-jan-2024",
+        "state": "future"
+    },
+    "pagesense.io": {
+        "epoch": 1659225600.0,
+        "expiration_date": "31-jul-2022",
+        "state": "future"
+    },
+    "taptica.com": {
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     }
 }
