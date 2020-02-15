@@ -1333,8 +1333,8 @@
 0.0.0.0 api.simpli.fi
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 api-staging-us-west-2.lisnr.com
@@ -1609,6 +1609,7 @@
 0.0.0.0 assets1.brightedge.com
 0.0.0.0 assets2.brightedge.com
 0.0.0.0 assets2.huluim.com
+0.0.0.0 assets3.brightedge.com
 0.0.0.0 assets.5rocks.io
 0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.acceptance.sharethrough.com
@@ -1814,8 +1815,8 @@
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azure-res-provider.newrelic.com
-0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1473-k8s.dev-iad.amobee.com
+0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1-apac1-win.zemanta.com
 0.0.0.0 b1-euc1-win.zemanta.com
 0.0.0.0 b1-euc2.zemanta.com
@@ -4332,8 +4333,8 @@
 0.0.0.0 exportdb-preprod.sendgrid.net
 0.0.0.0 export-e2e.sendgrid.net
 0.0.0.0 exporthtml5.bannersnack.com
-0.0.0.0 export.int.applicationinsights.io
 0.0.0.0 export-int.applicationinsights.io
+0.0.0.0 export.int.applicationinsights.io
 0.0.0.0 export-preprod.sendgrid.net
 0.0.0.0 export-production.sendgrid.net
 0.0.0.0 exports.singular.net
@@ -5086,6 +5087,7 @@
 0.0.0.0 haggler-rubicon010-eu-c-ec2.liftoff.io
 0.0.0.0 haggler-rubicon117-us-e-ec2.liftoff.io
 0.0.0.0 haggler-rubicon123-us-e-ec2.liftoff.io
+0.0.0.0 haggler-rubicon135-us-e-ec2.liftoff.io
 0.0.0.0 haggler-smaato002-us-e-ec2.liftoff.io
 0.0.0.0 haggler-smaato007-us-e-ec2.liftoff.io
 0.0.0.0 haggler-smaato011-us-e-ec2.liftoff.io
@@ -5362,8 +5364,8 @@
 0.0.0.0 iei.rlcdn.com
 0.0.0.0 ies.ad.gt
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
+0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
@@ -5529,8 +5531,8 @@
 0.0.0.0 initjs-staging.gcp.rfksrv.com
 0.0.0.0 initjs-test.gcp.rfksrv.com
 0.0.0.0 init-latency-test.supersonicads.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 inline-api-server-elb.lb.dev1.sharethis.net
 0.0.0.0 inline.sharethis.com
 0.0.0.0 inline-widget-meteor-lb.global.prod1.sharethis.net
@@ -6241,6 +6243,7 @@
 0.0.0.0 lightstep.ei-stage-a.k8s-us-east-2.sendgrid.net
 0.0.0.0 lindenlab.activate.ensighten.com
 0.0.0.0 linear-dev-2.dev.linear.aws.fwmrm.net
+0.0.0.0 linear-dev-v2.dev.linear.aws.fwmrm.net
 0.0.0.0 linear-prd-2.prd.linear.aws.fwmrm.net
 0.0.0.0 linear-stg.stg.linear.aws.fwmrm.net
 0.0.0.0 linear-stg-v1.stg.linear.aws.fwmrm.net
@@ -6987,6 +6990,7 @@
 0.0.0.0 mt-api-uat.advance.net
 0.0.0.0 mta.propellerads.com
 0.0.0.0 mtazwt2.360.cn
+0.0.0.0 mtazwt3.360.cn
 0.0.0.0 mtbl.linkstorm.net
 0.0.0.0 mtcmed01.nexage.com
 0.0.0.0 mtcmed02.nexage.com
@@ -7031,6 +7035,7 @@
 0.0.0.0 mx-ny8.criteo.net
 0.0.0.0 mx.returnpath.net
 0.0.0.0 mx.solocpm.com
+0.0.0.0 mx.tst.returnpath.net
 0.0.0.0 m.xuanshi.360.cn
 0.0.0.0 mx.xplosion.de
 0.0.0.0 mx.zanox.com
@@ -7275,8 +7280,8 @@
 0.0.0.0 nordicleads.engine.adglare.net
 0.0.0.0 northerntool.rdr.channelintelligence.com
 0.0.0.0 northstyle.madmobile.com
-0.0.0.0 notary-harbor.dispatch-stage-a.us-east-2.k8s.sendgrid.net
 0.0.0.0 notary.harbor.dispatch-stage-a.us-east-2.k8s.sendgrid.net
+0.0.0.0 notary-harbor.dispatch-stage-a.us-east-2.k8s.sendgrid.net
 0.0.0.0 notary.harbor.ldap.dispatch-stage-a.us-east-2.k8s.sendgrid.net
 0.0.0.0 notary.harbor.s3.dispatch-stage-a.us-east-2.k8s.sendgrid.net
 0.0.0.0 notifications.apester.com
@@ -9088,8 +9093,8 @@
 0.0.0.0 s10.optvdo.com
 0.0.0.0 s-10.optvdo.com
 0.0.0.0 s10.shoofle.tv
-0.0.0.0 s-12.optvdo.com
 0.0.0.0 s12.optvdo.com
+0.0.0.0 s-12.optvdo.com
 0.0.0.0 s12.urbaninsight.com
 0.0.0.0 s13.ayads.co
 0.0.0.0 s13.optvdo.com
@@ -10763,6 +10768,7 @@
 0.0.0.0 trk15-useast1.snt.imrworldwide.com
 0.0.0.0 trk16-eucentral1.snt.imrworldwide.com
 0.0.0.0 trk16-useast1.snt.imrworldwide.com
+0.0.0.0 trk17-eucentral1.snt.imrworldwide.com
 0.0.0.0 trk17-useast1.snt.imrworldwide.com
 0.0.0.0 trk21-eucentral1.snt.imrworldwide.com
 0.0.0.0 trk3.snt.imrworldwide.com
@@ -12131,6 +12137,7 @@
 0.0.0.0 www.amgdgt.com
 0.0.0.0 www.amgvgt.com
 0.0.0.0 www.amp.dataexchange.inmobi.com
+0.0.0.0 www.amplify.amplitude.com
 0.0.0.0 www.amp.mxptint.net
 0.0.0.0 www.amp-staging.dataexchange.inmobi.com
 0.0.0.0 www.ams.d41.co
@@ -14196,6 +14203,7 @@
 0.0.0.0 www.yhp.mxptint.net
 0.0.0.0 www.yieldmrm.com
 0.0.0.0 www.yieldoptimizer.com
+0.0.0.0 www.yjp.kissmetrics.com
 0.0.0.0 www.yoda.internal.media.net
 0.0.0.0 www.yodelmobilecouk.yodelmobile.com
 0.0.0.0 www.yodelmobilelondon.yodelmobile.com
