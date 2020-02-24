@@ -474,6 +474,7 @@
 0.0.0.0 admin-stg.revcontent.com
 0.0.0.0 adm.intel-intg.dynamicyield.com
 0.0.0.0 adm.intel-stage.dynamicyield.com
+0.0.0.0 adminv3.exoclick.com
 0.0.0.0 adminx.bandwidthx.net
 0.0.0.0 admnew.dynamicyield.com
 0.0.0.0 admobile.neodatagroup.com
@@ -531,6 +532,7 @@
 0.0.0.0 adserve.advertising.com
 0.0.0.0 adserve.nexage.com
 0.0.0.0 adserver1.kdata.fr
+0.0.0.0 adserver2.juicyads.com
 0.0.0.0 adserver2.kdata.fr
 0.0.0.0 adserver3.kdata.fr
 0.0.0.0 adserver4.kdata.fr
@@ -930,8 +932,8 @@
 0.0.0.0 alehdet-relevant.thirdpresence.com
 0.0.0.0 alert.infra.apester.com
 0.0.0.0 alertmanager2.ei-stage-a.k8s-us-east-2.sendgrid.net
-0.0.0.0 alertmanager.antiabuse.staging.mdw1.k8s.sendgrid.net
 0.0.0.0 alertmanager.antiabuse.staging-mdw1.k8s.sendgrid.net
+0.0.0.0 alertmanager.antiabuse.staging.mdw1.k8s.sendgrid.net
 0.0.0.0 alertmanager.avalanche2.ei-dev-a.us-east-2.k8s.sendgrid.net
 0.0.0.0 alertmanager.avalanche2.ei-dev-a.us-west-2.k8s.sendgrid.net
 0.0.0.0 alertmanager.avalanche.ei-dev-a.us-east-1.k8s.sendgrid.net
@@ -1650,8 +1652,8 @@
 0.0.0.0 assets2.huluim.com
 0.0.0.0 assets3.brightedge.com
 0.0.0.0 assets.5rocks.io
-0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.acceptance.sharethrough.com
+0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.adtechus.com
 0.0.0.0 assets.applvn.com
 0.0.0.0 assets.drawbrid.ge
@@ -3220,6 +3222,7 @@
 0.0.0.0 customer.dev.api.driftt.com
 0.0.0.0 customerexchange.thunderhead.com
 0.0.0.0 customerexchange-uat.thunderhead.com
+0.0.0.0 custom.exoclick.com
 0.0.0.0 customfields-e2e.sendgrid.net
 0.0.0.0 customfields-preprod.sendgrid.net
 0.0.0.0 custom-fields-prod.sendgrid.net
@@ -3297,6 +3300,7 @@
 0.0.0.0 dardarkomnetad.engine.adglare.net
 0.0.0.0 dardarkomvid.engine.adglare.net
 0.0.0.0 darkroom.sharethrough.com
+0.0.0.0 darktrace.corp.exoclick.com
 0.0.0.0 dashb.dca.bidstalk.com
 0.0.0.0 dashboard-api.demandbase.com
 0.0.0.0 dashboard-api.production.virginia.demandbase.com
@@ -4444,8 +4448,8 @@
 0.0.0.0 exportdb-preprod.sendgrid.net
 0.0.0.0 export-e2e.sendgrid.net
 0.0.0.0 exporthtml5.bannersnack.com
-0.0.0.0 export-int.applicationinsights.io
 0.0.0.0 export.int.applicationinsights.io
+0.0.0.0 export-int.applicationinsights.io
 0.0.0.0 export-preprod.sendgrid.net
 0.0.0.0 export-production.sendgrid.net
 0.0.0.0 exports.singular.net
@@ -4649,6 +4653,7 @@
 0.0.0.0 files.seadform.net
 0.0.0.0 files.sharethrough.com
 0.0.0.0 files.targetix.net
+0.0.0.0 fill.juicyads.com
 0.0.0.0 film1.mobpro.com
 0.0.0.0 filmesonline.backup.sh
 0.0.0.0 filter0005p1iad2.sendgrid.net
@@ -4930,6 +4935,7 @@
 0.0.0.0 genevawarm.draftusgov.prod.applicationinsights.io
 0.0.0.0 genevawarm.geneva.keyvault.applicationinsights.io
 0.0.0.0 genevawarm.graph.int.applicationinsights.io
+0.0.0.0 gen.exoclick.com
 0.0.0.0 geniee.hkg.events.bidstalk.com
 0.0.0.0 genxpeoplemeet.adlegend.com
 0.0.0.0 geo.atdmt.com
@@ -5209,8 +5215,8 @@
 0.0.0.0 haggler-mopub776-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub777-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub788.us-e.ec2.liftoff.io
-0.0.0.0 haggler-mopub791-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub791.us-e.ec2.liftoff.io
+0.0.0.0 haggler-mopub791-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub794.us-e.ec2.liftoff.io
 0.0.0.0 haggler-mopub797.us-e.ec2.liftoff.io
 0.0.0.0 haggler-mopub800.us-e.ec2.liftoff.io
@@ -5494,10 +5500,10 @@
 0.0.0.0 idr.ad.gt
 0.0.0.0 idrs.ad.gt
 0.0.0.0 idsa.ad.gt
+0.0.0.0 id.s.ad.gt
+0.0.0.0 i.ds.ad.gt
 0.0.0.0 i-ds.ad.gt
 0.0.0.0 id-s.ad.gt
-0.0.0.0 i.ds.ad.gt
-0.0.0.0 id.s.ad.gt
 0.0.0.0 idsd.ad.gt
 0.0.0.0 idse.ad.gt
 0.0.0.0 idsq.ad.gt
@@ -5529,10 +5535,10 @@
 0.0.0.0 iei.rlcdn.com
 0.0.0.0 ies.ad.gt
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
-0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
+0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -5704,8 +5710,8 @@
 0.0.0.0 initjs-staging.gcp.rfksrv.com
 0.0.0.0 initjs-test.gcp.rfksrv.com
 0.0.0.0 init-latency-test.supersonicads.com
-0.0.0.0 in.jwpltx.com
 0.0.0.0 i.n.jwpltx.com
+0.0.0.0 in.jwpltx.com
 0.0.0.0 inline-api-server-elb.lb.dev1.sharethis.net
 0.0.0.0 inline.sharethis.com
 0.0.0.0 inline-widget-meteor-lb.global.prod1.sharethis.net
@@ -7525,8 +7531,8 @@
 0.0.0.0 nordicleads.engine.adglare.net
 0.0.0.0 northerntool.rdr.channelintelligence.com
 0.0.0.0 northstyle.madmobile.com
-0.0.0.0 notary-harbor.dispatch-stage-a.us-east-2.k8s.sendgrid.net
 0.0.0.0 notary.harbor.dispatch-stage-a.us-east-2.k8s.sendgrid.net
+0.0.0.0 notary-harbor.dispatch-stage-a.us-east-2.k8s.sendgrid.net
 0.0.0.0 notary.harbor.ldap.dispatch-stage-a.us-east-2.k8s.sendgrid.net
 0.0.0.0 notary.harbor.s3.dispatch-stage-a.us-east-2.k8s.sendgrid.net
 0.0.0.0 notifications.apester.com
@@ -9411,8 +9417,8 @@
 0.0.0.0 s-09.optvdo.com
 0.0.0.0 s0.returnpath.net
 0.0.0.0 s10.allinviews.com
-0.0.0.0 s10.optvdo.com
 0.0.0.0 s-10.optvdo.com
+0.0.0.0 s10.optvdo.com
 0.0.0.0 s10.shoofle.tv
 0.0.0.0 s-12.optvdo.com
 0.0.0.0 s12.optvdo.com
@@ -9994,8 +10000,8 @@
 0.0.0.0 sipexternal.gmial.com
 0.0.0.0 sipexternal.maxpoint.com
 0.0.0.0 _sipfederationtls._tcp.admedia.com
-0.0.0.0 _sipfederationtls._tcp.gmial.com
 0.0.0.0 sipfederationtls.tcp.gmial.com
+0.0.0.0 _sipfederationtls._tcp.gmial.com
 0.0.0.0 sipfed.webtrends.com
 0.0.0.0 sip.gmial.com
 0.0.0.0 sipinternal.gmial.com
@@ -10469,6 +10475,7 @@
 0.0.0.0 static.simpli.fi
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static.sociomantic.com
+0.0.0.0 static-ssl.exoclick.com
 0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.stg.yieldmo.com
@@ -10496,6 +10503,7 @@
 0.0.0.0 stats-dss1402.epom.com
 0.0.0.0 stats-dss1953.epom.com
 0.0.0.0 stats-e2e.mcautomation.sendgrid.net
+0.0.0.0 stats.exoclick.com
 0.0.0.0 stats-fra.sxp.smartclip.net
 0.0.0.0 stats-irl.sxp.smartclip.net
 0.0.0.0 stats.ligatus.com
@@ -10684,6 +10692,7 @@
 0.0.0.0 synctest46-us-west-1.yieldmo.com
 0.0.0.0 synctest47-us-west-1.yieldmo.com
 0.0.0.0 synctest5-us-west-1.yieldmo.com
+0.0.0.0 syndication-dyn.exoclick.com
 0.0.0.0 syn-lb.sellpoint.net
 0.0.0.0 syntaxiscomar.worldgravity.com
 0.0.0.0 syntaxiscomar.yusp.com
@@ -12464,6 +12473,7 @@
 0.0.0.0 www2.installfarm.com
 0.0.0.0 www2.instartlogic.com
 0.0.0.0 www2.iris.tv
+0.0.0.0 www2.juicyads.com
 0.0.0.0 www.2mdn.net
 0.0.0.0 www2.mediafreshgreatliteflash.icu
 0.0.0.0 www2.mixmaintenancegreatliteflash.icu
@@ -14799,6 +14809,7 @@
 0.0.0.0 wxjs.miaozhen.com
 0.0.0.0 x17.cloud.kargo.com
 0.0.0.0 xadc.xplosion.de
+0.0.0.0 xapi.jads.co
 0.0.0.0 xcaa9065.citacx.acxiom.com
 0.0.0.0 xcaa9099.citacx.acxiom.com
 0.0.0.0 xch.media.net
