@@ -879,6 +879,11 @@
         "expiration_date": "27-oct-2020",
         "state": "future"
     },
+    "adsquare.com": {
+        "epoch": 1600819200.0,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
     "adsrvr.cn": {
         "epoch": 1619481600.0,
         "expiration_date": "27-apr-2021",
@@ -6160,9 +6165,9 @@
         "state": "future"
     },
     "premiumclubusa.com": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
-        "state": "past"
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
+        "state": "future"
     },
     "presage.io": {
         "epoch": 1651363200.0,
@@ -8252,6 +8257,11 @@
     "wearehearken.com": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "wearemiq.com": {
+        "epoch": 1644710400.0,
+        "expiration_date": "13-feb-2022",
         "state": "future"
     },
     "webcam.net": {
