@@ -768,6 +768,7 @@
 0.0.0.0 adtracker.irishopinions.com
 0.0.0.0 adtracker.meinungsstudie.de
 0.0.0.0 adtracker.valuedopinions.com
+0.0.0.0 adtracker.valuedopinions.com.au
 0.0.0.0 adv.admeme.net
 0.0.0.0 advertiser-cn.vizury.com
 0.0.0.0 advertisersapitest.doubleclick.com
@@ -1310,6 +1311,7 @@
 0.0.0.0 appliancesonline.sp1.convertro.com
 0.0.0.0 applovin.dca.bids.bidstalk.com
 0.0.0.0 app-olb.quartic.pl
+0.0.0.0 app.pangeo.geoedge.be
 0.0.0.0 app.qa.exacttarget.com
 0.0.0.0 app.quarticon.com
 0.0.0.0 app.response.demandbase.com
@@ -1430,8 +1432,8 @@
 0.0.0.0 assets.adtechus.com
 0.0.0.0 assets.applvn.com
 0.0.0.0 assets.quantcast.com
-0.0.0.0 assets-rfm.rubiconproject.com
 0.0.0.0 assets.rfm.rubiconproject.com
+0.0.0.0 assets-rfm.rubiconproject.com
 0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 assist.itnow.netat1.listrakbi.com
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -3253,8 +3255,8 @@
 0.0.0.0 evening-standard.smartology.net
 0.0.0.0 evenmore.nexage.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event-backoffice.adikteev.com
+0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event-canary.prod.bidr.io
 0.0.0.0 event.cmp.advertising.com
@@ -3325,6 +3327,7 @@
 0.0.0.0 f14-us-va.adhigh.net
 0.0.0.0 f17-us-va.digitmate.bid
 0.0.0.0 f1-hk.digitmate.bid
+0.0.0.0 f1-us-ca.digitmate.bid
 0.0.0.0 f1-us-tx.adhigh.net
 0.0.0.0 f1-us-tx.digitmate.bid
 0.0.0.0 f1-us-va.cpagen.win
@@ -3339,9 +3342,11 @@
 0.0.0.0 f21-us-va.digitmate.bid
 0.0.0.0 f222.smaato.net
 0.0.0.0 f22-de-tmp.adhigh.net
+0.0.0.0 f22-us-va.digitmate.bid
 0.0.0.0 f23-de-tmp.adhigh.net
 0.0.0.0 f23-us-va.digitmate.bid
 0.0.0.0 f24-de-tmp.adhigh.net
+0.0.0.0 f24-us-va.digitmate.bid
 0.0.0.0 f25-de-tmp.adhigh.net
 0.0.0.0 f25-us-va.digitmate.bid
 0.0.0.0 f26-de-tmp.adhigh.net
@@ -3360,6 +3365,7 @@
 0.0.0.0 f315.smaato.net
 0.0.0.0 f317.smaato.net
 0.0.0.0 f31-de-tmp.adhigh.net
+0.0.0.0 f3-de.digitmate.bid
 0.0.0.0 f3.midasplayer.com
 0.0.0.0 f3-us-tx.adhigh.net
 0.0.0.0 f3-us-tx.digitmate.bid
@@ -3376,6 +3382,7 @@
 0.0.0.0 f7-us-va.cpagen.win
 0.0.0.0 f8-de.digitmate.bid
 0.0.0.0 f8-us-tx.adhigh.net
+0.0.0.0 f8-us-tx.digitmate.bid
 0.0.0.0 f8-us-va.cpagen.win
 0.0.0.0 f8-us-va.digitmate.bid
 0.0.0.0 f9-de.digitmate.bid
@@ -3605,6 +3612,7 @@
 0.0.0.0 gateway23.ec2.st-av.net
 0.0.0.0 gateway33.ec2.st-av.net
 0.0.0.0 gateway4.activengage.com
+0.0.0.0 gateway.geoedge.be
 0.0.0.0 gateway.supersonicads.com
 0.0.0.0 g.aus.miaozhen.com
 0.0.0.0 gb2-test.adriver.ru
@@ -3720,8 +3728,8 @@
 0.0.0.0 go.pixlee.com
 0.0.0.0 gpdz.linkstorm.net
 0.0.0.0 gpe.midasplayer.com
-0.0.0.0 grafana.antiabuse.staging.mdw1.k8s.sendgrid.net
 0.0.0.0 grafana.antiabuse.staging-mdw1.k8s.sendgrid.net
+0.0.0.0 grafana.antiabuse.staging.mdw1.k8s.sendgrid.net
 0.0.0.0 grafana.avalanche2.ei-dev-a.us-east-2.k8s.sendgrid.net
 0.0.0.0 grafana.avalanche2.ei-dev-a.us-west-2.k8s.sendgrid.net
 0.0.0.0 grafana.avalanche.ei-dev-a.us-east-1.k8s.sendgrid.net
@@ -4038,8 +4046,8 @@
 0.0.0.0 ies.ad.gt
 0.0.0.0 i.essads.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
-0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
+0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -4355,6 +4363,7 @@
 0.0.0.0 ivid-f10-de.digitmate.bid
 0.0.0.0 ivid-f11-de.digitmate.bid
 0.0.0.0 ivid-f11-us-va.cpagen.win
+0.0.0.0 ivid-f12-de.digitmate.bid
 0.0.0.0 ivid-f12-us-va.cpagen.win
 0.0.0.0 ivid-f13-de.digitmate.bid
 0.0.0.0 ivid-f13-us-va.cpagen.win
@@ -4365,6 +4374,8 @@
 0.0.0.0 ivid-f16-us-va.digitmate.bid
 0.0.0.0 ivid-f17-us-va.cpagen.win
 0.0.0.0 ivid-f17-us-va.digitmate.bid
+0.0.0.0 ivid-f1-de.digitmate.bid
+0.0.0.0 ivid-f1-hk.digitmate.bid
 0.0.0.0 ivid-f1-us-tx.adhigh.net
 0.0.0.0 ivid-f20-us-va.cpagen.win
 0.0.0.0 ivid-f21-de-tmp.adhigh.net
@@ -6165,8 +6176,8 @@
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 pro-us.api.recommendations.samba.tv
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 pro.vsassets.com
 0.0.0.0 pro.weborama.fr
 0.0.0.0 proximiter-stg.joystickinteractive.com
@@ -7427,6 +7438,7 @@
 0.0.0.0 stinger.us-east-1.stinger-ad.bidr.io
 0.0.0.0 stirlingmatheson.fanbread.com
 0.0.0.0 stmllc.sitescoutadserver.com
+0.0.0.0 st-nginx-proxy.geoedge.be
 0.0.0.0 storageanalytics.applicationinsights.io
 0.0.0.0 storage-cf.cloud.kargo.com
 0.0.0.0 storage-http2.cloud.kargo.com
@@ -7832,8 +7844,8 @@
 0.0.0.0 training7.247realmedia.com
 0.0.0.0 trans.silverpop.com
 0.0.0.0 travel.admixer.net
-0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travel.productads.hlserve.com
+0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 trc-cc.taboola.com
 0.0.0.0 trello-callback.glance-internal.inmobi.com
 0.0.0.0 trending.revcontent.com
@@ -8387,12 +8399,12 @@
 0.0.0.0 videobeet.neodatagroup.com
 0.0.0.0 videocdn.onedigitalad.com
 0.0.0.0 video.inmobi.com
-0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
+0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 video.sellpoint.net
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 vidstatb.taboola.com.cdn.cloudflare.net
 0.0.0.0 vidstat.taboola.com.cdn.cloudflare.net
 0.0.0.0 vidyorouter2.rubiconproject.com
@@ -8407,8 +8419,8 @@
 0.0.0.0 vip48-t.mookie1.com
 0.0.0.0 vip.admaster.com.cn
 0.0.0.0 vip-north.playhaven.com
-0.0.0.0 visit.backoffice.adikteev.com
 0.0.0.0 visit-backoffice.adikteev.com
+0.0.0.0 visit.backoffice.adikteev.com
 0.0.0.0 visitor.fifty.io
 0.0.0.0 visitor-qa.activengage.com
 0.0.0.0 vivad.advertising.com
@@ -10173,6 +10185,7 @@
 0.0.0.0 www.dev.stripewh.getadmiral.com
 0.0.0.0 www.dev.tapjoy.com
 0.0.0.0 www.dev.trial-italia.facebook-ads.adtz.com
+0.0.0.0 www.digitmate.bid
 0.0.0.0 www.direct.maxpoint.com
 0.0.0.0 www.dirtylittlehelpers.com
 0.0.0.0 www.discover.leanplum.com
