@@ -762,6 +762,7 @@
 0.0.0.0 adtg6.widerplanet.com
 0.0.0.0 adtg9.widerplanet.com
 0.0.0.0 adt.pxl.ace.advertising.com
+0.0.0.0 adtracker.airmilesopinions.ca
 0.0.0.0 adtracker.altaopinione.it
 0.0.0.0 adtracker.de.webmiles.researchnow-partner.com
 0.0.0.0 adtracker.inmobi.com
@@ -1571,8 +1572,8 @@
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azores.corp.com
 0.0.0.0 azure-res-provider.newrelic.com
-0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1473-k8s.dev-iad.amobee.com
+0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1-euc1-win.zemanta.com
 0.0.0.0 b1-euc2.zemanta.com
 0.0.0.0 b1-lsw-apac1.zemanta.com
@@ -1656,6 +1657,7 @@
 0.0.0.0 bc-iad.springserve.com
 0.0.0.0 bck.rt.cquotient.com
 0.0.0.0 bcnquintana.impresionesweb.com
+0.0.0.0 bcn.reamp.com.br
 0.0.0.0 b.content.adfox.ru
 0.0.0.0 bcpad0.sin.loc.crwdcntrl.net
 0.0.0.0 bcpad1.sin.loc.crwdcntrl.net
@@ -2970,6 +2972,7 @@
 0.0.0.0 dynamic-template-engine.production.paperg.com
 0.0.0.0 dynamic-template-engine.staging.paperg.com
 0.0.0.0 dyn.atdmt.com
+0.0.0.0 dyn.cunda.advolution.biz
 0.0.0.0 dyn-message.mathtag.com
 0.0.0.0 dyn.perfectaudience.com
 0.0.0.0 dyn-pixel.mathtag.com
@@ -4301,6 +4304,7 @@
 0.0.0.0 iqreport-dc1.adtech.de
 0.0.0.0 iran.gmial.com
 0.0.0.0 irds.ad.gt
+0.0.0.0 i.reamp.com.br
 0.0.0.0 iris-aad.aimon.applicationinsights.io
 0.0.0.0 iris-aimon-mdm.aimon.applicationinsights.io
 0.0.0.0 irlist.microadinc.com
@@ -6189,8 +6193,8 @@
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 pro-us.api.recommendations.samba.tv
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 pro.vsassets.com
 0.0.0.0 pro.weborama.fr
 0.0.0.0 proximiter-stg.joystickinteractive.com
@@ -7857,8 +7861,8 @@
 0.0.0.0 training7.247realmedia.com
 0.0.0.0 trans.silverpop.com
 0.0.0.0 travel.admixer.net
-0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 travel-productads.hlserve.com
+0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 trc-cc.taboola.com
 0.0.0.0 trello-callback.glance-internal.inmobi.com
 0.0.0.0 trending.revcontent.com
@@ -8327,12 +8331,15 @@
 0.0.0.0 vast-f16-us-va.adhigh.net
 0.0.0.0 vast-f16-us-va.digitmate.bid
 0.0.0.0 vast-f19-us-va.adhigh.net
+0.0.0.0 vast-f19-us-va.digitmate.bid
 0.0.0.0 vast-f1-de.digitmate.bid
 0.0.0.0 vast-f1-hk.adhigh.net
 0.0.0.0 vast-f20-us-va.digitmate.bid
 0.0.0.0 vast-f21-de-tmp.adhigh.net
+0.0.0.0 vast-f21-us-va.digitmate.bid
 0.0.0.0 vast-f23-de-tmp.adhigh.net
 0.0.0.0 vast-f25-us-va.digitmate.bid
+0.0.0.0 vast-f26-us-va.digitmate.bid
 0.0.0.0 vast-f27-us-va.adhigh.net
 0.0.0.0 vast-f27-us-va.digitmate.bid
 0.0.0.0 vast-f2-de.digitmate.bid
@@ -8341,13 +8348,17 @@
 0.0.0.0 vast-f32-de-tmp.adhigh.net
 0.0.0.0 vast-f3-de.digitmate.bid
 0.0.0.0 vast-f3-us-va.digitmate.bid
+0.0.0.0 vast-f4-de.digitmate.bid
 0.0.0.0 vast-f4-us-ca.digitmate.bid
+0.0.0.0 vast-f5-de.digitmate.bid
 0.0.0.0 vast-f5-us-ca.digitmate.bid
 0.0.0.0 vast-f5-us-va.adhigh.net
 0.0.0.0 vast-f5-us-va.digitmate.bid
+0.0.0.0 vast-f6-de.digitmate.bid
 0.0.0.0 vast-f6-us-ca.digitmate.bid
 0.0.0.0 vast-f6-us-va.digitmate.bid
 0.0.0.0 vast-f7-de.digitmate.bid
+0.0.0.0 vast-f7-us-va.digitmate.bid
 0.0.0.0 vast-f8-de.digitmate.bid
 0.0.0.0 vast-f8-us-ca.digitmate.bid
 0.0.0.0 vast-f8-us-tx.adhigh.net
@@ -8424,8 +8435,8 @@
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 video.sellpoint.net
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
+0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 vidstatb.taboola.com.cdn.cloudflare.net
 0.0.0.0 vidstat.taboola.com.cdn.cloudflare.net
 0.0.0.0 vidyorouter2.rubiconproject.com
@@ -9860,6 +9871,7 @@
 0.0.0.0 www.adv.api.admedia.com
 0.0.0.0 www.adversal.mgr.consensu.org
 0.0.0.0 www.advertisersegment.inmobi.com
+0.0.0.0 www.advolution.biz
 0.0.0.0 www.adwords.panadvert.com
 0.0.0.0 www.adwords.smedia.ca
 0.0.0.0 www.adworks.turn.com
