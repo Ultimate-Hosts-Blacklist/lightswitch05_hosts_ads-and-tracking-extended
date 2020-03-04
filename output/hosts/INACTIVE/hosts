@@ -923,8 +923,8 @@
 0.0.0.0 a-lb.tribalfusion.com
 0.0.0.0 alehdet-relevant.thirdpresence.com
 0.0.0.0 alert.infra.apester.com
-0.0.0.0 alertmanager.antiabuse.staging-mdw1.k8s.sendgrid.net
 0.0.0.0 alertmanager.antiabuse.staging.mdw1.k8s.sendgrid.net
+0.0.0.0 alertmanager.antiabuse.staging-mdw1.k8s.sendgrid.net
 0.0.0.0 alertmanager.avalanche2.ei-dev-a.us-east-2.k8s.sendgrid.net
 0.0.0.0 alertmanager.avalanche.ei-dev-a.us-east-1.k8s.sendgrid.net
 0.0.0.0 alertmanager-delivery-mdw1.k8s.sendgrid.net
@@ -2162,6 +2162,7 @@
 0.0.0.0 certservice.local.rakutenmarketing.com
 0.0.0.0 certservice-qa.local.rakutenmarketing.com
 0.0.0.0 certspscan.acxiom.com
+0.0.0.0 certtest.rebel.ai
 0.0.0.0 cetelem-bud.gravityrd-services.com
 0.0.0.0 cevent.bidstalk.com
 0.0.0.0 cf-admin.doublemax.net
@@ -2789,6 +2790,7 @@
 0.0.0.0 dev.pixlee.com
 0.0.0.0 dev.portalapi.inskinmedia.com
 0.0.0.0 dev-rbc-api-data.pingdom.net
+0.0.0.0 dev.rebel.ai
 0.0.0.0 dev-rec.aralego.com
 0.0.0.0 dev.redirection.adtz.com
 0.0.0.0 dev.report.adtz.com
@@ -3263,8 +3265,8 @@
 0.0.0.0 evening-standard.smartology.net
 0.0.0.0 evenmore.nexage.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.backoffice.adikteev.com
+0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event-canary.prod.bidr.io
 0.0.0.0 event.cmp.advertising.com
@@ -4057,8 +4059,8 @@
 0.0.0.0 ies.ad.gt
 0.0.0.0 i.essads.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
-0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -8460,8 +8462,8 @@
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 video.sellpoint.net
 0.0.0.0 videos.sharethrough.com
-0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
+0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 vidstatb.taboola.com.cdn.cloudflare.net
 0.0.0.0 vidstat.taboola.com.cdn.cloudflare.net
 0.0.0.0 vidyorouter2.rubiconproject.com
@@ -11461,6 +11463,7 @@
 0.0.0.0 zocdoc.sp1.convertro.com
 0.0.0.0 zodiaco.backup.sh
 0.0.0.0 zooworld.fanbread.com
+0.0.0.0 ztest3.rebel.ai
 0.0.0.0 ztest.thunderhead.com
 0.0.0.0 ztrack.sitescoutadserver.com
 0.0.0.0 zula.sitescout.com
