@@ -1,41 +1,19 @@
 {
-    "current_stats": {
-        "builds": 1092,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 89746,
-        "whitelisted.list": 89746
-    },
     "currently_under_test": true,
+    "custom_pyfunceble_config": {},
     "days_until_next_test": 1,
     "description": "Collection of Analytics, Ads, and tracking hosts to block.",
     "end_datetime": "2020-03-03T16:22:39.471993",
     "end_epoch": 1582805629.982454,
     "issue_link": "https://github.com/lightswitch05/hosts/issues/new/choose",
-    "last_autosave_datetime": "2020-03-03T16:22:39.472006",
-    "last_autosave_epoch": 1583244564.693102,
     "link": "https://www.github.developerdan.com/hosts/",
     "name": "lightswitch05_hosts_ads-and-tracking-extended",
-    "previous_stats": {
-        "builds": 271,
-        "clean.list": 89747,
-        "counter": {
-            "down": 14969,
-            "invalid": 11,
-            "tested": 104727,
-            "up": 89747
-        },
-        "domains.list": 104727,
-        "ip.list": 0,
-        "volatile.list": 89746,
-        "whitelisted.list": 89746
+    "previous_end_datetime": "2020-01-25T04:19:52.857264",
+    "previous_end_epoch": 1579925992.857268,
+    "previous_start_datetime": "2020-01-25T04:19:52.857253",
+    "previous_start_epoch": 1579925992.857266,
+    "pyfunceble": {
+        "config": {}
     },
     "raw_link": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
     "start_datetime": "2020-03-03T16:22:39.476592",
