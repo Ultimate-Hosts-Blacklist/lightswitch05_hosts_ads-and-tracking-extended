@@ -166,15 +166,19 @@
     ],
     "app": [
         "wnext.app",
+        "multibaas.app",
         "platform0.app",
         "ondigitalocean.app",
+        "edgecompute.app",
         "fireweb.app",
+        "framer.app",
         "run.app",
         "a.run.app",
         "web.app",
         "hasura.app",
         "loginline.app",
         "netlify.app",
+        "northflank.app",
         "telebit.app",
         "vercel.app"
     ],
@@ -325,6 +329,7 @@
         "webhosting.be",
         "blogspot.be",
         "cloud.interhostsolutions.be",
+        "ezproxy.kuleuven.be",
         "transurl.be"
     ],
     "bf": [
@@ -678,6 +683,9 @@
         "net.bt",
         "org.bt"
     ],
+    "builders": [
+        "cloudsite.builders"
+    ],
     "business": [
         "co.business"
     ],
@@ -812,6 +820,7 @@
         "us.reclaim.cloud",
         "ch.trendhosting.cloud",
         "de.trendhosting.cloud",
+        "kuleuven.cloud",
         "linkyard.cloud",
         "magentosite.cloud",
         "perspecta.cloud",
@@ -940,6 +949,7 @@
         "us-west-1.elasticbeanstalk.com",
         "us-west-2.elasticbeanstalk.com",
         "elb.amazonaws.com",
+        "awsglobalaccelerator.com",
         "s3.amazonaws.com",
         "s3-ap-northeast-1.amazonaws.com",
         "s3-ap-northeast-2.amazonaws.com",
@@ -993,11 +1003,15 @@
         "s3-website.eu-west-2.amazonaws.com",
         "s3-website.eu-west-3.amazonaws.com",
         "s3-website.us-east-2.amazonaws.com",
+        "appspacehosted.com",
+        "appspaceusercontent.com",
         "on-aptible.com",
         "myasustor.com",
         "balena-devices.com",
         "betainabox.com",
+        "boutir.com",
         "bplaced.com",
+        "cafjs.com",
         "br.com",
         "cn.com",
         "de.com",
@@ -1024,6 +1038,7 @@
         "cloudcontrolled.com",
         "cloudcontrolapp.com",
         "trycloudflare.com",
+        "multibaas.com",
         "customer-oci.com",
         "oci.customer-oci.com",
         "ocp.customer-oci.com",
@@ -1205,10 +1220,11 @@
         "us-4.evennode.com",
         "onfabrica.com",
         "apps.fbsbx.com",
+        "firebaseapp.com",
         "fastly-terrarium.com",
         "fastvps-server.com",
         "mydobiss.com",
-        "firebaseapp.com",
+        "framercanvas.com",
         "freebox-os.com",
         "freeboxos.com",
         "freemyip.com",
@@ -1327,10 +1343,13 @@
         "pgfog.com",
         "pagefrontapp.com",
         "pagexl.com",
+        "paywhirl.com",
         "gotpantheon.com",
         "platter-app.com",
         "pleskns.com",
         "xen.prgmr.com",
+        "pythonanywhere.com",
+        "eu.pythonanywhere.com",
         "qualifioapp.com",
         "qbuser.com",
         "qa2.com",
@@ -1522,7 +1541,9 @@
     ],
     "dev": [
         "lcl.dev",
+        "lclstage.dev",
         "stg.dev",
+        "stgstage.dev",
         "pages.dev",
         "workers.dev",
         "curv.dev",
@@ -1533,6 +1554,7 @@
         "iserv.dev",
         "loginline.dev",
         "platter-app.dev",
+        "shiftcrypto.dev",
         "vercel.dev",
         "webhare.dev"
     ],
@@ -1863,6 +1885,9 @@
         "nym.gy",
         "be.gy"
     ],
+    "health": [
+        "hra.health"
+    ],
     "hk": [
         "com.hk",
         "edu.hk",
@@ -2123,6 +2148,7 @@
         "devices.resinstaging.io",
         "hzc.io",
         "sandcats.io",
+        "shiftcrypto.io",
         "shiftedit.io",
         "mo-siemens.io",
         "apps.lair.io",
@@ -4701,6 +4727,7 @@
         "lohmus.me",
         "barsy.me",
         "mcpe.me",
+        "mcdir.me",
         "nctu.me",
         "soundcast.me",
         "tcp4.me",
@@ -5401,13 +5428,14 @@
         "nym.mx"
     ],
     "my": [
+        "biz.my",
         "com.my",
-        "net.my",
-        "org.my",
-        "gov.my",
         "edu.my",
+        "gov.my",
         "mil.my",
         "name.my",
+        "net.my",
+        "org.my",
         "blogspot.my"
     ],
     "mz": [
@@ -5464,6 +5492,7 @@
         "uk.net",
         "in.net",
         "clic2000.net",
+        "clickrising.net",
         "cloudaccess.net",
         "cdn77-ssl.net",
         "r.cdn77.net",
@@ -5591,6 +5620,8 @@
         "serveminecraft.net",
         "sytes.net",
         "cloudycluster.net",
+        "webpaas.ovh.net",
+        "hosting.ovh.net",
         "bar0.net",
         "bar1.net",
         "bar2.net",
@@ -5604,6 +5635,8 @@
         "user.srcf.net",
         "dsmynas.net",
         "familyds.net",
+        "torproject.net",
+        "pages.torproject.net",
         "fastblog.net",
         "community-pro.net",
         "meinforum.net",
@@ -5618,6 +5651,9 @@
         "arvo.network",
         "azimuth.network",
         "tlon.network"
+    ],
+    "news": [
+        "noticeable.news"
     ],
     "nf": [
         "com.nf",
@@ -6689,7 +6725,8 @@
     "page": [
         "pdns.page",
         "plesk.page",
-        "prvcy.page"
+        "prvcy.page",
+        "magnet.page"
     ],
     "party": [
         "ybo.party"
@@ -7121,6 +7158,7 @@
         "int.ru",
         "mil.ru",
         "test.ru",
+        "eurodir.ru",
         "adygeya.ru",
         "bashkiria.ru",
         "bir.ru",
@@ -7151,6 +7189,7 @@
         "vps.myjino.ru",
         "hb.cldmail.ru",
         "mcdir.ru",
+        "mcpre.ru",
         "vps.mcdir.ru",
         "net.ru",
         "org.ru",
@@ -7164,6 +7203,7 @@
         "hs.run",
         "development.run",
         "ravendb.run",
+        "code.run",
         "repl.run"
     ],
     "rw": [
@@ -7207,7 +7247,8 @@
     ],
     "scot": [
         "edu.scot",
-        "gov.scot"
+        "gov.scot",
+        "service.gov.scot"
     ],
     "sd": [
         "com.sd",
@@ -7316,6 +7357,7 @@
         "opensocial.site",
         "platformsh.site",
         "byen.site",
+        "srht.site",
         "mintere.site"
     ],
     "sk": [
