@@ -12,7 +12,11 @@
     "previous_start_datetime": "2020-01-25T04:19:52.857253",
     "previous_start_epoch": 1579925992.857266,
     "pyfunceble": {
-        "config": {}
+        "config": {
+            "cli_testing": {
+                "preload_file": false   
+            }
+        }
     },
     "raw_link": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
     "start_datetime": "2020-03-03T16:22:39.476592",
